@@ -1,0 +1,3565 @@
+{
+  "total_episodes_analyzed": 50,
+  "total_promos_extracted": 73,
+  "top_ranked_promos": [
+    {
+      "episode_num": 23,
+      "segments": [
+        {
+          "start_sec": 79.0,
+          "end_sec": 131.5,
+          "start_time": "01:19.00",
+          "end_time": "02:11.50",
+          "duration": 52.5
+        }
+      ],
+      "total_duration": 52.5,
+      "score": 0.911,
+      "hook_score": 1.0,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "LADY JULIANA (Cold, Deadly Serious): \"\"Someone is poisoning her.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "CAMERA: Close-up on the brass door lever as it slowly rotates downward, and the hea",
+      "clarity_score": 0.67,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 52s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 38,
+      "segments": [
+        {
+          "start_sec": 45.5,
+          "end_sec": 87.91,
+          "start_time": "00:45.50",
+          "end_time": "01:27.91",
+          "duration": 42.41
+        }
+      ],
+      "total_duration": 42.41,
+      "score": 0.864,
+      "hook_score": 1.0,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Fearful, Pleading): \"\"What if I die here?\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "CAMERA: Dramatic cut to black.",
+      "clarity_score": 0.41,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 42s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 26,
+      "segments": [
+        {
+          "start_sec": 62.6,
+          "end_sec": 120.88,
+          "start_time": "01:02.60",
+          "end_time": "02:00.88",
+          "duration": 58.28
+        }
+      ],
+      "total_duration": 58.28,
+      "score": 0.834,
+      "hook_score": 0.9,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Reassuring, Steadfast): \"\"Yes. But the charcoal is fighting the poison. You are safe now.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "CAMERA: Tight close-up of the Dowager Duchess's two weathered hands tightly claspin",
+      "clarity_score": 0.52,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 58s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 44,
+      "segments": [
+        {
+          "start_sec": 8.6,
+          "end_sec": 34.0,
+          "start_time": "00:08.60",
+          "end_time": "00:34.00",
+          "duration": 25.4
+        }
+      ],
+      "total_duration": 25.4,
+      "score": 0.817,
+      "hook_score": 1.0,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "LORD STERLING (Snarls, Outraged): \"\"You have no authority!\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Profile close-up of Catherine as a tear slips down her cheek.",
+      "clarity_score": 0.73,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 25s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 12,
+      "segments": [
+        {
+          "start_sec": 43.7,
+          "end_sec": 87.21000000000001,
+          "start_time": "00:43.70",
+          "end_time": "01:27.21",
+          "duration": 43.51
+        }
+      ],
+      "total_duration": 43.51,
+      "score": 0.812,
+      "hook_score": 1.0,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CLARISSA (Cruel, Savoring): \"\"I want to see you crawl, sister.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: Juliana locks eyes with Clarissa without flinching as the scene freezes on ",
+      "clarity_score": 0.67,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 43s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 28,
+      "segments": [
+        {
+          "start_sec": 15.2,
+          "end_sec": 72.0,
+          "start_time": "00:15.20",
+          "end_time": "01:12.00",
+          "duration": 56.8
+        }
+      ],
+      "total_duration": 56.8,
+      "score": 0.805,
+      "hook_score": 1.0,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Furious, Defiant): \"\"I did not poison her! Look at her eyes, the fever has broken!\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Tight close-up of Catherine's gloved hands grabbing the delicate chain arou",
+      "clarity_score": 0.7,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 56s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 37,
+      "segments": [
+        {
+          "start_sec": 103.5,
+          "end_sec": 156.47,
+          "start_time": "01:43.50",
+          "end_time": "02:36.47",
+          "duration": 52.97
+        }
+      ],
+      "total_duration": 52.97,
+      "score": 0.798,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Straining, Defiant Gasps): \"\"I will not!\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "SOUND: A deep, ominous cello rumble builds alongside the crackle of the fireplace ",
+      "clarity_score": 0.72,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 52s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 3,
+      "segments": [
+        {
+          "start_sec": 91.7,
+          "end_sec": 145.75,
+          "start_time": "01:31.70",
+          "end_time": "02:25.75",
+          "duration": 54.05
+        }
+      ],
+      "total_duration": 54.05,
+      "score": 0.787,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "THE BEARDED STRANGER (Firm, Menacing): \"\"Good. Then don't touch her again.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "ACTION: Juliana gazes down at her rugged savior, overcome with emotion as the swell",
+      "clarity_score": 0.68,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 54s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 16,
+      "segments": [
+        {
+          "start_sec": 25.8,
+          "end_sec": 83.19,
+          "start_time": "00:25.80",
+          "end_time": "01:23.19",
+          "duration": 57.39
+        }
+      ],
+      "total_duration": 57.39,
+      "score": 0.785,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "THIRD THUG (Desperate, Shouting): \"\"Stay back!\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "SOUND: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger ho",
+      "clarity_score": 0.7,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 57s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 42,
+      "segments": [
+        {
+          "start_sec": 23.5,
+          "end_sec": 73.8,
+          "start_time": "00:23.50",
+          "end_time": "01:13.80",
+          "duration": 50.3
+        }
+      ],
+      "total_duration": 50.3,
+      "score": 0.769,
+      "hook_score": 1.0,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "BLOND NOBLEMAN (Screaming, Outraged): \"\"I said arrest him!\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Medium shot of Rupert cowering on the altar steps beside Catherine and her ",
+      "clarity_score": 0.72,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 50s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 13,
+      "segments": [
+        {
+          "start_sec": 53.5,
+          "end_sec": 82.2,
+          "start_time": "00:53.50",
+          "end_time": "01:22.20",
+          "duration": 28.7
+        }
+      ],
+      "total_duration": 28.7,
+      "score": 0.766,
+      "hook_score": 0.9,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Gasping in Pain): \"\"No...\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ALEXANDER: \"\"Stop!\"\"",
+      "clarity_score": 0.8,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 28s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 15,
+      "segments": [
+        {
+          "start_sec": 46.5,
+          "end_sec": 86.0,
+          "start_time": "00:46.50",
+          "end_time": "01:26.00",
+          "duration": 39.5
+        }
+      ],
+      "total_duration": 39.5,
+      "score": 0.759,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Steely, Fearless): \"\"No.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "SOUND: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "clarity_score": 0.49,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 39s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 20,
+      "segments": [
+        {
+          "start_sec": 12.8,
+          "end_sec": 42.4,
+          "start_time": "00:12.80",
+          "end_time": "00:42.40",
+          "duration": 29.6
+        }
+      ],
+      "total_duration": 29.6,
+      "score": 0.743,
+      "hook_score": 1.0,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "RUPERT (Smug): \"\"The succession papers are being finalized as we speak.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "RUPERT: \"\"Not through the winter. I've ensured her quiet comfort.\"\"",
+      "clarity_score": 0.51,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 29s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 1,
+      "segments": [
+        {
+          "start_sec": 107.5,
+          "end_sec": 137.5,
+          "start_time": "01:47.50",
+          "end_time": "02:17.50",
+          "duration": 30.0
+        }
+      ],
+      "total_duration": 30.0,
+      "score": 0.741,
+      "hook_score": 0.45,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "LADY IN GOLD GOWN (Viciously Calm): \"\"You are the daughter people tolerate because they have to.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "SOUND: Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+      "clarity_score": 0.76,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 30s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 2,
+      "segments": [
+        {
+          "start_sec": 42.5,
+          "end_sec": 86.5,
+          "start_time": "00:42.50",
+          "end_time": "01:26.50",
+          "duration": 44.0
+        }
+      ],
+      "total_duration": 44.0,
+      "score": 0.739,
+      "hook_score": 1.0,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "BLOND NOBLEMAN (Severely, Harsh): \"\"Do not disgrace us further.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LADY JULIANA: \"\"Do not mistake my heartbreak for your victory, Gerald.\"\"",
+      "clarity_score": 0.48,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 44s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 22,
+      "segments": [
+        {
+          "start_sec": 91.5,
+          "end_sec": 131.0,
+          "start_time": "01:31.50",
+          "end_time": "02:11.00",
+          "duration": 39.5
+        }
+      ],
+      "total_duration": 39.5,
+      "score": 0.727,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "LADY JULIANA (Breathless): \"\"This house...\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "CAMERA: Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up a",
+      "clarity_score": 0.51,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 39s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 36,
+      "segments": [
+        {
+          "start_sec": 160.5,
+          "end_sec": 200.75,
+          "start_time": "02:40.50",
+          "end_time": "03:20.75",
+          "duration": 40.25
+        }
+      ],
+      "total_duration": 40.25,
+      "score": 0.725,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "ALEXANDER (Deadly, Throaty): \"\"...and killing my wife afterward.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "SOUND: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting ",
+      "clarity_score": 0.5,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 40s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 33,
+      "segments": [
+        {
+          "start_sec": 98.5,
+          "end_sec": 146.5,
+          "start_time": "01:38.50",
+          "end_time": "02:26.50",
+          "duration": 48.0
+        }
+      ],
+      "total_duration": 48.0,
+      "score": 0.718,
+      "hook_score": 0.9,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "MAID (Sobbing): \"\"Yes.\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LORD: \"\"You do not need to.\"\"",
+      "clarity_score": 0.81,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 48s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 14,
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 28.5,
+          "start_time": "00:00.00",
+          "end_time": "00:28.50",
+          "duration": 28.5
+        }
+      ],
+      "total_duration": 28.5,
+      "score": 0.712,
+      "hook_score": 0.9,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CAMERA: Close-up low angle looking through dense, sharp blackthorn branches onto th",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JULIANA: \"\"Nothing they didn't promise.\"\"",
+      "clarity_score": 0.53,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 28s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 31,
+      "segments": [
+        {
+          "start_sec": 118.4,
+          "end_sec": 160.0,
+          "start_time": "01:58.40",
+          "end_time": "02:40.00",
+          "duration": 41.6
+        }
+      ],
+      "total_duration": 41.6,
+      "score": 0.712,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Piercing, Provocative): \"\"Then why are you so desperate to make me kneel?\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant oran",
+      "clarity_score": 0.52,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 41s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 34,
+      "segments": [
+        {
+          "start_sec": 66.8,
+          "end_sec": 117.2,
+          "start_time": "01:06.80",
+          "end_time": "01:57.20",
+          "duration": 50.4
+        }
+      ],
+      "total_duration": 50.4,
+      "score": 0.71,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "PRUDENCE (Faltering, Desperate): \"\"She... placed herbs around my brother's bed.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Low-angle close-up of the Lord looking down arrogantly over his shoulder.",
+      "clarity_score": 0.78,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 50s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 21,
+      "segments": [
+        {
+          "start_sec": 79.8,
+          "end_sec": 114.0,
+          "start_time": "01:19.80",
+          "end_time": "01:54.00",
+          "duration": 34.2
+        }
+      ],
+      "total_duration": 34.2,
+      "score": 0.709,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "PRUDENCE (Grateful, Choked with Emotion): \"\"You saved him. The grand doctors left him to choke, but you...\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "CAMERA: Slow push-in on Lady Juliana staring down at the ancient pages, her express",
+      "clarity_score": 0.51,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 34s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 25,
+      "segments": [
+        {
+          "start_sec": 80.2,
+          "end_sec": 120.2,
+          "start_time": "01:20.20",
+          "end_time": "02:00.20",
+          "duration": 40.0
+        }
+      ],
+      "total_duration": 40.0,
+      "score": 0.707,
+      "hook_score": 0.9,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Hushed, Horrified): \"\"Poison.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JULIANA: \"\"She is still sick. I cannot leave her there.\"\"",
+      "clarity_score": 0.5,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 40s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 46,
+      "segments": [
+        {
+          "start_sec": 26.8,
+          "end_sec": 65.5,
+          "start_time": "00:26.80",
+          "end_time": "01:05.50",
+          "duration": 38.7
+        }
+      ],
+      "total_duration": 38.7,
+      "score": 0.697,
+      "hook_score": 0.85,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "HIGH PRIEST (Resonant, Dismissive): \"\"Three years later, the beggar is revealed to be a Duke. The marriage does \"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JULIANA: \"\"I won't ask it for permission to love.\"\"",
+      "clarity_score": 0.53,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 38s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 2,
+      "segments": [
+        {
+          "start_sec": 6.6,
+          "end_sec": 53.4,
+          "start_time": "00:06.60",
+          "end_time": "00:53.40",
+          "duration": 46.8
+        }
+      ],
+      "total_duration": 46.8,
+      "score": 0.696,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "THE FORMER GROOM (Off-screen) (Dismissive): \"\"...far too silent...\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Tight insert on Clarissa's gloved fingers contemptuously pinching the satin",
+      "clarity_score": 0.7,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 46s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 3,
+      "segments": [
+        {
+          "start_sec": 22.8,
+          "end_sec": 66.0,
+          "start_time": "00:22.80",
+          "end_time": "01:06.00",
+          "duration": 43.2
+        }
+      ],
+      "total_duration": 43.2,
+      "score": 0.687,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "NOBLE MATRIARCH (Harsh, Authoritative): \"\"Enough, Juliana.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: High wide shot down the vaulted cathedral aisle showing the entire congrega",
+      "clarity_score": 0.75,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 43s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 7,
+      "segments": [
+        {
+          "start_sec": 50.8,
+          "end_sec": 91.5,
+          "start_time": "00:50.80",
+          "end_time": "01:31.50",
+          "duration": 40.7
+        }
+      ],
+      "total_duration": 40.7,
+      "score": 0.682,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "GERALD (Bitter, Sneering): \"\"You chose that scarred beggar over a life of comfort.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: Gerald rapidly turns on his heel toward the carriage, unwilling to face ano",
+      "clarity_score": 0.72,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 40s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 44,
+      "segments": [
+        {
+          "start_sec": 31.2,
+          "end_sec": 53.0,
+          "start_time": "00:31.20",
+          "end_time": "00:53.00",
+          "duration": 21.8
+        }
+      ],
+      "total_duration": 21.8,
+      "score": 0.679,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CATHERINE (O.S.) (Pleading): \"\"I mourned you.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Extreme close-up on Catherine's tearful face.",
+      "clarity_score": 0.68,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 21s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 11,
+      "segments": [
+        {
+          "start_sec": 14.3,
+          "end_sec": 61.8,
+          "start_time": "00:14.30",
+          "end_time": "01:01.80",
+          "duration": 47.5
+        }
+      ],
+      "total_duration": 47.5,
+      "score": 0.673,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "JULIANA (Furious, Defiant): \"\"You have already taken enough from me. Leave!\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: The Constable aggressively pulls folded bed linens from a shelf and hurls t",
+      "clarity_score": 0.68,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 47s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 13,
+      "segments": [
+        {
+          "start_sec": 5.4,
+          "end_sec": 48.8,
+          "start_time": "00:05.40",
+          "end_time": "00:48.80",
+          "duration": 43.4
+        }
+      ],
+      "total_duration": 43.4,
+      "score": 0.671,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "ALEXANDER (Pleading, Agonized): \"\"Juliana, look at those thorns. You cannot do this.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ALEXANDER: \"\"Juliana, stop!\"\"",
+      "clarity_score": 0.76,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 43s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 24,
+      "segments": [
+        {
+          "start_sec": 31.0,
+          "end_sec": 81.0,
+          "start_time": "00:31.00",
+          "end_time": "01:21.00",
+          "duration": 50.0
+        }
+      ],
+      "total_duration": 50.0,
+      "score": 0.658,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "LADY JULIANA (Steely, Steadfast): \"\"I cannot do that.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LADY JULIANA: \"\"Let her think I am only a maid.\"\"",
+      "clarity_score": 0.69,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 50s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 1,
+      "segments": [
+        {
+          "start_sec": 21.8,
+          "end_sec": 81.0,
+          "start_time": "00:21.80",
+          "end_time": "01:21.00",
+          "duration": 59.2
+        }
+      ],
+      "total_duration": 59.2,
+      "score": 0.657,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "LADY JULIANA (Trembling, Pleading): \"\"What do you mean?\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: Juliana turns abruptly toward the first row of pews, where her elderly fath",
+      "clarity_score": 0.69,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 59s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 37,
+      "segments": [
+        {
+          "start_sec": 37.0,
+          "end_sec": 92.0,
+          "start_time": "00:37.00",
+          "end_time": "01:32.00",
+          "duration": 55.0
+        }
+      ],
+      "total_duration": 55.0,
+      "score": 0.656,
+      "hook_score": 0.4,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "BUTLER (Formal): \"\"Lady Clarissa, an invitation from Ashbridge Manor.\"\"",
+      "cliffhanger_score": 0.95,
+      "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+      "cliffhanger_description": "SOUND: Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mou",
+      "clarity_score": 0.47,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 55s and cuts on a ominous music / cut-to-black cliffhanger."
+    },
+    {
+      "episode_num": 10,
+      "segments": [
+        {
+          "start_sec": 2.1,
+          "end_sec": 28.0,
+          "start_time": "00:02.10",
+          "end_time": "00:28.00",
+          "duration": 25.9
+        }
+      ],
+      "total_duration": 25.9,
+      "score": 0.649,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Alarmed, Breathless): \"\"Alexander!\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Medium shot of Juliana crossing her arms over her chest, eyeing him with qu",
+      "clarity_score": 0.5,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 25s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 33,
+      "segments": [
+        {
+          "start_sec": 32.8,
+          "end_sec": 80.5,
+          "start_time": "00:32.80",
+          "end_time": "01:20.50",
+          "duration": 47.7
+        }
+      ],
+      "total_duration": 47.7,
+      "score": 0.649,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "LORD (Coldly Dismissive): \"\"That is not what I asked.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LORD: \"\"The truth.\"\"",
+      "clarity_score": 0.82,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 47s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 15,
+      "segments": [
+        {
+          "start_sec": 13.0,
+          "end_sec": 46.4,
+          "start_time": "00:13.00",
+          "end_time": "00:46.40",
+          "duration": 33.4
+        }
+      ],
+      "total_duration": 33.4,
+      "score": 0.648,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "THUG WITH CAP (Mocking, Smug): \"\"We're clearing this rubbish.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "THUG WITH CAP: \"\"Get out of the way!\"\"",
+      "clarity_score": 0.73,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 33s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 38,
+      "segments": [
+        {
+          "start_sec": 16.0,
+          "end_sec": 51.0,
+          "start_time": "00:16.00",
+          "end_time": "00:51.00",
+          "duration": 35.0
+        }
+      ],
+      "total_duration": 35.0,
+      "score": 0.647,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "JULIANA (Breathless, Bewildered): \"\"Why?\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: A heavy tear drips down from her jaw, falling into the dark dampness below.",
+      "clarity_score": 0.55,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 35s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 1,
+      "segments": [
+        {
+          "start_sec": 74.6,
+          "end_sec": 119.0,
+          "start_time": "01:14.60",
+          "end_time": "01:59.00",
+          "duration": 44.4
+        }
+      ],
+      "total_duration": 44.4,
+      "score": 0.646,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "LADY IN GOLD GOWN (Cruel, Poised): \"\"Long enough to know he was never going to marry you.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LADY JULIANA: \"\"So that is what I was worth to you?\"\"",
+      "clarity_score": 0.72,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 44s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 31,
+      "segments": [
+        {
+          "start_sec": 43.0,
+          "end_sec": 80.2,
+          "start_time": "00:43.00",
+          "end_time": "01:20.20",
+          "duration": 37.2
+        }
+      ],
+      "total_duration": 37.2,
+      "score": 0.642,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "CATHERINE (Cold, Bitter): \"\"No. You became a disgrace when Gerald left you standing at the altar.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "CATHERINE: \"\"You call that marriage?\"\"",
+      "clarity_score": 0.7,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 37s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 42,
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 28.8,
+          "start_time": "00:00.00",
+          "end_time": "00:28.80",
+          "duration": 28.8
+        }
+      ],
+      "total_duration": 28.8,
+      "score": 0.622,
+      "hook_score": 0.4,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "CAMERA: Low-angle shot through drifting smoke and rubble across the stone floor, ti",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering convi",
+      "clarity_score": 0.78,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 28s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 27,
+      "segments": [
+        {
+          "start_sec": 16.8,
+          "end_sec": 48.3,
+          "start_time": "00:16.80",
+          "end_time": "00:48.30",
+          "duration": 31.5
+        }
+      ],
+      "total_duration": 31.5,
+      "score": 0.617,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "DOWAGER DUCHESS (Trembling, Revelatory): \"\"That is no ordinary band. It bears the Ashbourne crest.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "SOUND: Loud, violent pounding echoes on the wooden double doors.",
+      "clarity_score": 0.48,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 31s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 3,
+      "segments": [
+        {
+          "start_sec": 60.0,
+          "end_sec": 94.0,
+          "start_time": "01:00.00",
+          "end_time": "01:34.00",
+          "duration": 34.0
+        }
+      ],
+      "total_duration": 34.0,
+      "score": 0.616,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "LADY JULIANA (Screaming, Resisting): \"\"Let me go!\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Close-up on Juliana's tear-streaked face as she shakes her head gently, ove",
+      "clarity_score": 0.57,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 34s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 45,
+      "segments": [
+        {
+          "start_sec": 54.0,
+          "end_sec": 108.8,
+          "start_time": "00:54.00",
+          "end_time": "01:48.80",
+          "duration": 54.8
+        }
+      ],
+      "total_duration": 54.8,
+      "score": 0.616,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "ALEXANDER (Furious, Cold): \"\"You poisoned my mother. You tortured my wife.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "HIGH PRIEST: \"\"Before the Crown, you are not Duchess of Ashburton.\"\"",
+      "clarity_score": 0.7,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 54s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 45,
+      "segments": [
+        {
+          "start_sec": 12.2,
+          "end_sec": 42.0,
+          "start_time": "00:12.20",
+          "end_time": "00:42.00",
+          "duration": 29.8
+        }
+      ],
+      "total_duration": 29.8,
+      "score": 0.608,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Breathless, Overcome): \"\"Your eyes...\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Tight close-up on Alexander looking deep into Juliana's blue eyes.",
+      "clarity_score": 0.53,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 29s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 46,
+      "segments": [
+        {
+          "start_sec": 92.2,
+          "end_sec": 140.5,
+          "start_time": "01:32.20",
+          "end_time": "02:20.50",
+          "duration": 48.3
+        }
+      ],
+      "total_duration": 48.3,
+      "score": 0.6,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "HIGH PRIEST (Commanding, Severe): \"\"God did not marry you. A frightened parishioner did, without leave, withou\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: The High Priest turns sharply on his heel and strides past the guards towar",
+      "clarity_score": 0.57,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 48s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 25,
+      "segments": [
+        {
+          "start_sec": 7.0,
+          "end_sec": 54.2,
+          "start_time": "00:07.00",
+          "end_time": "00:54.20",
+          "duration": 47.2
+        }
+      ],
+      "total_duration": 47.2,
+      "score": 0.596,
+      "hook_score": 0.65,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "ALEXANDER (Concerned, Suspicious): \"\"Why are you walking like that?\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Close-up of Juliana holding his gaze resolutely.",
+      "clarity_score": 0.47,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 47s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 11,
+      "segments": [
+        {
+          "start_sec": 67.5,
+          "end_sec": 112.75,
+          "start_time": "01:07.50",
+          "end_time": "01:52.75",
+          "duration": 45.25
+        }
+      ],
+      "total_duration": 45.25,
+      "score": 0.592,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "GERALD (Cruel, Condescending): \"\"Stand aside. Look at this place. A perfect hiding hole for a thief.\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Tight macro shot of the gold pocket watch dangling and swaying gently from ",
+      "clarity_score": 0.53,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 45s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 36,
+      "segments": [
+        {
+          "start_sec": 29.0,
+          "end_sec": 85.5,
+          "start_time": "00:29.00",
+          "end_time": "01:25.50",
+          "duration": 56.5
+        }
+      ],
+      "total_duration": 56.5,
+      "score": 0.587,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "ALEXANDER'S MOTHER (Horrified): \"\"They gave you to the enemy?\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ALEXANDER: \"\"What?\"\"",
+      "clarity_score": 0.66,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 56s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 21,
+      "segments": [
+        {
+          "start_sec": 31.0,
+          "end_sec": 60.5,
+          "start_time": "00:31.00",
+          "end_time": "01:00.50",
+          "duration": 29.5
+        }
+      ],
+      "total_duration": 29.5,
+      "score": 0.585,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "PRUDENCE (Pleading, Desperate): \"\"He is only seven! If you do not come, he will die! You are his only hope, \"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: Lady Juliana crushes dried herbal leaves into a dark wooden bowl between he",
+      "clarity_score": 0.5,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 29s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 12,
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 46.6,
+          "start_time": "00:00.00",
+          "end_time": "00:46.60",
+          "duration": 46.6
+        }
+      ],
+      "total_duration": 46.6,
+      "score": 0.582,
+      "hook_score": 0.45,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "CONSTABLE (Authoritative, Stern): \"\"Put out your hands, veteran. You are under arrest for theft.\"\"",
+      "cliffhanger_score": 0.65,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Medium two-shot of Clarissa in the foreground, turning slowly to face Julia",
+      "clarity_score": 0.48,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 46s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 40,
+      "segments": [
+        {
+          "start_sec": 26.2,
+          "end_sec": 63.8,
+          "start_time": "00:26.20",
+          "end_time": "01:03.80",
+          "duration": 37.6
+        }
+      ],
+      "total_duration": 37.6,
+      "score": 0.581,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "LORD HARRINGTON (Sinister, Dismissive): \"\"She won't be seeing anything for long.\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: High-angle wide shot looking down from the balcony across the entire cathed",
+      "clarity_score": 0.57,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 37s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 47,
+      "segments": [
+        {
+          "start_sec": 43.0,
+          "end_sec": 86.5,
+          "start_time": "00:43.00",
+          "end_time": "01:26.50",
+          "duration": 43.5
+        }
+      ],
+      "total_duration": 43.5,
+      "score": 0.58,
+      "hook_score": 0.4,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "ALEXANDER (Deep, Unwavering): \"\"You are my wife.\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Medium shot of Alexander turning toward Juliana in sheer disbelief.",
+      "clarity_score": 0.82,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 43s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 50,
+      "segments": [
+        {
+          "start_sec": 1.8,
+          "end_sec": 35.0,
+          "start_time": "00:01.80",
+          "end_time": "00:35.00",
+          "duration": 33.2
+        }
+      ],
+      "total_duration": 33.2,
+      "score": 0.573,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CATHERINE (Playful, Seductive): \"\"A man in your collar isn't supposed to have that much left in him, Thomas.\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "FATHER THOMAS: \"\"Absolution is free. Discretion has a price.\"\"",
+      "clarity_score": 0.53,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 33s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 30,
+      "segments": [
+        {
+          "start_sec": 94.6,
+          "end_sec": 136.2,
+          "start_time": "01:34.60",
+          "end_time": "02:16.20",
+          "duration": 41.6
+        }
+      ],
+      "total_duration": 41.6,
+      "score": 0.57,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "ELDER NOBLEMAN (Authoritative, Command): \"\"Do not hide the evidence, manufacture it. Drag her before the magistrate t\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "RUPERT: \"\"I will write the arrest warrant myself.\"\"",
+      "clarity_score": 0.51,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 41s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 22,
+      "segments": [
+        {
+          "start_sec": 4.0,
+          "end_sec": 31.0,
+          "start_time": "00:04.00",
+          "end_time": "00:31.00",
+          "duration": 27.0
+        }
+      ],
+      "total_duration": 27.0,
+      "score": 0.567,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "PRUDENCE (Urgent, Whispering): \"\"Keep your head down. If anyone recognizes you, everything is over.\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LADY JULIANA: \"\"Then I will face that when she is breathing again.\"\"",
+      "clarity_score": 0.52,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 27s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 43,
+      "segments": [
+        {
+          "start_sec": 0.6,
+          "end_sec": 21.5,
+          "start_time": "00:00.60",
+          "end_time": "00:21.50",
+          "duration": 20.9
+        }
+      ],
+      "total_duration": 20.9,
+      "score": 0.567,
+      "hook_score": 0.45,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "BLOND NOBLEMAN (Hysterical, Panicked): \"\"You're lying!\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ROYAL GUARD: \"\"No. He is your Duke.\"\"",
+      "clarity_score": 0.65,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 20s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 35,
+      "segments": [
+        {
+          "start_sec": 33.8,
+          "end_sec": 74.0,
+          "start_time": "00:33.80",
+          "end_time": "01:14.00",
+          "duration": 40.2
+        }
+      ],
+      "total_duration": 40.2,
+      "score": 0.565,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "ALEXANDER'S MOTHER (Sobbing, Stunned): \"\"Alexander!\"\"",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ALEXANDER'S MOTHER: \"\"Then how did you survive?\"\"",
+      "clarity_score": 0.48,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 40s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 5,
+      "segments": [
+        {
+          "start_sec": 2.5,
+          "end_sec": 44.2,
+          "start_time": "00:02.50",
+          "end_time": "00:44.20",
+          "duration": 41.7
+        }
+      ],
+      "total_duration": 41.7,
+      "score": 0.561,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "LORD ASHCROFT (Stern, Commanding): \"\"Miss Ashcroft.\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LADY ASHCROFT: \"\"Enough sentiment.\"\"",
+      "clarity_score": 0.64,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 41s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 31,
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 23.5,
+          "start_time": "00:00.00",
+          "end_time": "00:23.50",
+          "duration": 23.5
+        }
+      ],
+      "total_duration": 23.5,
+      "score": 0.555,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CAMERA: Static medium shot of the heavy, iron-studded dungeon door as the massive b",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "CATHERINE: \"\"I am.\"\"",
+      "clarity_score": 0.48,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 23s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 33,
+      "segments": [
+        {
+          "start_sec": 0.0,
+          "end_sec": 22.8,
+          "start_time": "00:00.00",
+          "end_time": "00:22.80",
+          "duration": 22.8
+        }
+      ],
+      "total_duration": 22.8,
+      "score": 0.554,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "LORD (Cold, Authoritative): \"\"Your brother is breathing again.\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LORD: \"\"What herbs?\"\"",
+      "clarity_score": 0.66,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 22s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 39,
+      "segments": [
+        {
+          "start_sec": 59.8,
+          "end_sec": 90.2,
+          "start_time": "00:59.80",
+          "end_time": "01:30.20",
+          "duration": 30.4
+        }
+      ],
+      "total_duration": 30.4,
+      "score": 0.551,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "ALEXANDER (Deep, Steely Resolve): \"\"Enough hiding.\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ALEXANDER: \"\"I am taking back my house.\"\"",
+      "clarity_score": 0.51,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 30s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 32,
+      "segments": [
+        {
+          "start_sec": 60.8,
+          "end_sec": 108.8,
+          "start_time": "01:00.80",
+          "end_time": "01:48.80",
+          "duration": 48.0
+        }
+      ],
+      "total_duration": 48.0,
+      "score": 0.543,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Passionate, Clear): \"\"He wanted a wife whose family could raise his name. He measured a woman's \"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Close-up of Catherine throwing her hands up in explosive defensiveness.",
+      "clarity_score": 0.47,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 48s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 34,
+      "segments": [
+        {
+          "start_sec": 107.3,
+          "end_sec": 138.4,
+          "start_time": "01:47.30",
+          "end_time": "02:18.40",
+          "duration": 31.1
+        }
+      ],
+      "total_duration": 31.1,
+      "score": 0.541,
+      "hook_score": 0.55,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "LORD (Mocking, Smug): \"\"She calls it healing.\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "LADY JULIANA: \"\"So I helped them.\"\"",
+      "clarity_score": 0.54,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 31s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 34,
+      "segments": [
+        {
+          "start_sec": 37.5,
+          "end_sec": 60.1,
+          "start_time": "00:37.50",
+          "end_time": "01:00.10",
+          "duration": 22.6
+        }
+      ],
+      "total_duration": 22.6,
+      "score": 0.537,
+      "hook_score": 0.6,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "JUDGE (Commanding): \"\"Prudence. You served beside the accused?\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JUDGE: \"\"What did you see?\"\"",
+      "clarity_score": 0.49,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 22s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 17,
+      "segments": [
+        {
+          "start_sec": 7.0,
+          "end_sec": 30.0,
+          "start_time": "00:07.00",
+          "end_time": "00:30.00",
+          "duration": 23.0
+        }
+      ],
+      "total_duration": 23.0,
+      "score": 0.536,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Soft, Emotional): \"\"Some of them survived.\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Tracking shot following Alexander as he strides across the muddy garden and",
+      "clarity_score": 0.48,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 23s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 29,
+      "segments": [
+        {
+          "start_sec": 80.9,
+          "end_sec": 112.8,
+          "start_time": "01:20.90",
+          "end_time": "01:52.80",
+          "duration": 31.9
+        }
+      ],
+      "total_duration": 31.9,
+      "score": 0.536,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CAMERA: Wide shot tracking behind the guards as they march Juliana down the vaulted",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Front medium shot of Juliana slowly rising to her feet, crossing her arms f",
+      "clarity_score": 0.43,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 31s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 7,
+      "segments": [
+        {
+          "start_sec": 4.8,
+          "end_sec": 32.6,
+          "start_time": "00:04.80",
+          "end_time": "00:32.60",
+          "duration": 27.8
+        }
+      ],
+      "total_duration": 27.8,
+      "score": 0.529,
+      "hook_score": 0.4,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "CAMERA: Low-angle tracking shot as an ornate black-and-gold carriage with crest emb",
+      "cliffhanger_score": 0.55,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JULIANA: \"\"You came all this way just to insult my home?\"\"",
+      "clarity_score": 0.5,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 27s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 4,
+      "segments": [
+        {
+          "start_sec": 7.6,
+          "end_sec": 41.5,
+          "start_time": "00:07.60",
+          "end_time": "00:41.50",
+          "duration": 33.9
+        }
+      ],
+      "total_duration": 33.9,
+      "score": 0.527,
+      "hook_score": 0.45,
+      "hook_type": "Verbal Humiliation / Betrayal",
+      "hook_description": "CLARISSA (Gleeful, Condescending): \"\"How fitting.\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "CAMERA: Low-angle medium shot of Juliana bending slightly forward, shaken by his wo",
+      "clarity_score": 0.47,
+      "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 33s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 17,
+      "segments": [
+        {
+          "start_sec": 31.5,
+          "end_sec": 90.0,
+          "start_time": "00:31.50",
+          "end_time": "01:30.00",
+          "duration": 58.5
+        }
+      ],
+      "total_duration": 58.5,
+      "score": 0.526,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "JULIANA (Choked Up, Pained): \"\"You cannot promise that.\"\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: Juliana slowly raises her hand, gently twirling a lock of Alexander's long,",
+      "clarity_score": 0.47,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 58s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 49,
+      "segments": [
+        {
+          "start_sec": 104.2,
+          "end_sec": 139.5,
+          "start_time": "01:44.20",
+          "end_time": "02:19.50",
+          "duration": 35.3
+        }
+      ],
+      "total_duration": 35.3,
+      "score": 0.524,
+      "hook_score": 0.4,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "FATHER THOMAS (Wary, Grave): \"\"If I keep the hearing open, if I feed you every word spoken behind those d\"",
+      "cliffhanger_score": 0.5,
+      "cliffhanger_type": "Sudden Action Cut on Climax",
+      "cliffhanger_description": "ACTION: Father Thomas slowly raises his right hand, palm turned upward in invitatio",
+      "clarity_score": 0.55,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 35s and cuts on a sudden action cut on climax."
+    },
+    {
+      "episode_num": 19,
+      "segments": [
+        {
+          "start_sec": 46.0,
+          "end_sec": 88.9,
+          "start_time": "00:46.00",
+          "end_time": "01:28.90",
+          "duration": 42.9
+        }
+      ],
+      "total_duration": 42.9,
+      "score": 0.515,
+      "hook_score": 0.4,
+      "hook_type": "Shock Identity / Power Reveal",
+      "hook_description": "ALEXANDER (Authoritative, Direct): \"\"Tell me what is happening in Ashburg.\"\"",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "ALEXANDER: \"\"Then Ashburg will remember who it belongs to.\"\"",
+      "clarity_score": 0.67,
+      "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 42s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 18,
+      "segments": [
+        {
+          "start_sec": 111.5,
+          "end_sec": 148.5,
+          "start_time": "01:51.50",
+          "end_time": "02:28.50",
+          "duration": 37.0
+        }
+      ],
+      "total_duration": 37.0,
+      "score": 0.494,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "ACTION: Alexander leaps forward, using his shoulder and back to shatter through the",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JULIANA: \"\"Why would anyone do this?\"\"",
+      "clarity_score": 0.39,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 37s and cuts on a impending peril / threat."
+    },
+    {
+      "episode_num": 37,
+      "segments": [
+        {
+          "start_sec": 92.0,
+          "end_sec": 112.5,
+          "start_time": "01:32.00",
+          "end_time": "01:52.50",
+          "duration": 20.5
+        }
+      ],
+      "total_duration": 20.5,
+      "score": 0.49,
+      "hook_score": 0.5,
+      "hook_type": "Physical Shock / Confrontation",
+      "hook_description": "CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained ",
+      "cliffhanger_score": 0.4,
+      "cliffhanger_type": "Impending Peril / Threat",
+      "cliffhanger_description": "JULIANA: \"\"They can take my name. They can take my home.\"\"",
+      "clarity_score": 0.45,
+      "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 20s and cuts on a impending peril / threat."
+    }
+  ],
+  "by_episode": [
+    {
+      "episode_num": 1,
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fianc\u00e9 Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+      "promos_found": 3,
+      "promos": [
+        {
+          "episode_num": 1,
+          "segments": [
+            {
+              "start_sec": 107.5,
+              "end_sec": 137.5,
+              "start_time": "01:47.50",
+              "end_time": "02:17.50",
+              "duration": 30.0
+            }
+          ],
+          "total_duration": 30.0,
+          "score": 0.741,
+          "hook_score": 0.45,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "LADY IN GOLD GOWN (Viciously Calm): \"\"You are the daughter people tolerate because they have to.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "SOUND: Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+          "clarity_score": 0.76,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 30s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 1,
+          "segments": [
+            {
+              "start_sec": 21.8,
+              "end_sec": 81.0,
+              "start_time": "00:21.80",
+              "end_time": "01:21.00",
+              "duration": 59.2
+            }
+          ],
+          "total_duration": 59.2,
+          "score": 0.657,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "LADY JULIANA (Trembling, Pleading): \"\"What do you mean?\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: Juliana turns abruptly toward the first row of pews, where her elderly fath",
+          "clarity_score": 0.69,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 59s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 1,
+          "segments": [
+            {
+              "start_sec": 74.6,
+              "end_sec": 119.0,
+              "start_time": "01:14.60",
+              "end_time": "01:59.00",
+              "duration": 44.4
+            }
+          ],
+          "total_duration": 44.4,
+          "score": 0.646,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "LADY IN GOLD GOWN (Cruel, Poised): \"\"Long enough to know he was never going to marry you.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LADY JULIANA: \"\"So that is what I was worth to you?\"\"",
+          "clarity_score": 0.72,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 44s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 2,
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 2,
+          "segments": [
+            {
+              "start_sec": 42.5,
+              "end_sec": 86.5,
+              "start_time": "00:42.50",
+              "end_time": "01:26.50",
+              "duration": 44.0
+            }
+          ],
+          "total_duration": 44.0,
+          "score": 0.739,
+          "hook_score": 1.0,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "BLOND NOBLEMAN (Severely, Harsh): \"\"Do not disgrace us further.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LADY JULIANA: \"\"Do not mistake my heartbreak for your victory, Gerald.\"\"",
+          "clarity_score": 0.48,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 44s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 2,
+          "segments": [
+            {
+              "start_sec": 6.6,
+              "end_sec": 53.4,
+              "start_time": "00:06.60",
+              "end_time": "00:53.40",
+              "duration": 46.8
+            }
+          ],
+          "total_duration": 46.8,
+          "score": 0.696,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "THE FORMER GROOM (Off-screen) (Dismissive): \"\"...far too silent...\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Tight insert on Clarissa's gloved fingers contemptuously pinching the satin",
+          "clarity_score": 0.7,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 46s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 3,
+      "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace\u2014and drops to one knee with a proposal that shocks high society.",
+      "promos_found": 3,
+      "promos": [
+        {
+          "episode_num": 3,
+          "segments": [
+            {
+              "start_sec": 91.7,
+              "end_sec": 145.75,
+              "start_time": "01:31.70",
+              "end_time": "02:25.75",
+              "duration": 54.05
+            }
+          ],
+          "total_duration": 54.05,
+          "score": 0.787,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "THE BEARDED STRANGER (Firm, Menacing): \"\"Good. Then don't touch her again.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "ACTION: Juliana gazes down at her rugged savior, overcome with emotion as the swell",
+          "clarity_score": 0.68,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 54s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 3,
+          "segments": [
+            {
+              "start_sec": 22.8,
+              "end_sec": 66.0,
+              "start_time": "00:22.80",
+              "end_time": "01:06.00",
+              "duration": 43.2
+            }
+          ],
+          "total_duration": 43.2,
+          "score": 0.687,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "NOBLE MATRIARCH (Harsh, Authoritative): \"\"Enough, Juliana.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: High wide shot down the vaulted cathedral aisle showing the entire congrega",
+          "clarity_score": 0.75,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 43s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 3,
+          "segments": [
+            {
+              "start_sec": 60.0,
+              "end_sec": 94.0,
+              "start_time": "01:00.00",
+              "end_time": "01:34.00",
+              "duration": 34.0
+            }
+          ],
+          "total_duration": 34.0,
+          "score": 0.616,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "LADY JULIANA (Screaming, Resisting): \"\"Let me go!\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Close-up on Juliana's tear-streaked face as she shakes her head gently, ove",
+          "clarity_score": 0.57,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 34s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 4,
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 4,
+          "segments": [
+            {
+              "start_sec": 7.6,
+              "end_sec": 41.5,
+              "start_time": "00:07.60",
+              "end_time": "00:41.50",
+              "duration": 33.9
+            }
+          ],
+          "total_duration": 33.9,
+          "score": 0.527,
+          "hook_score": 0.45,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "CLARISSA (Gleeful, Condescending): \"\"How fitting.\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Low-angle medium shot of Juliana bending slightly forward, shaken by his wo",
+          "clarity_score": 0.47,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 33s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 5,
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 5,
+          "segments": [
+            {
+              "start_sec": 2.5,
+              "end_sec": 44.2,
+              "start_time": "00:02.50",
+              "end_time": "00:44.20",
+              "duration": 41.7
+            }
+          ],
+          "total_duration": 41.7,
+          "score": 0.561,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "LORD ASHCROFT (Stern, Commanding): \"\"Miss Ashcroft.\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LADY ASHCROFT: \"\"Enough sentiment.\"\"",
+          "clarity_score": 0.64,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 41s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 6,
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+      "promos_found": 0,
+      "promos": []
+    },
+    {
+      "episode_num": 7,
+      "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 7,
+          "segments": [
+            {
+              "start_sec": 50.8,
+              "end_sec": 91.5,
+              "start_time": "00:50.80",
+              "end_time": "01:31.50",
+              "duration": 40.7
+            }
+          ],
+          "total_duration": 40.7,
+          "score": 0.682,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "GERALD (Bitter, Sneering): \"\"You chose that scarred beggar over a life of comfort.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: Gerald rapidly turns on his heel toward the carriage, unwilling to face ano",
+          "clarity_score": 0.72,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 40s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 7,
+          "segments": [
+            {
+              "start_sec": 4.8,
+              "end_sec": 32.6,
+              "start_time": "00:04.80",
+              "end_time": "00:32.60",
+              "duration": 27.8
+            }
+          ],
+          "total_duration": 27.8,
+          "score": 0.529,
+          "hook_score": 0.4,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "CAMERA: Low-angle tracking shot as an ornate black-and-gold carriage with crest emb",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JULIANA: \"\"You came all this way just to insult my home?\"\"",
+          "clarity_score": 0.5,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 27s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 8,
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+      "promos_found": 0,
+      "promos": []
+    },
+    {
+      "episode_num": 9,
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+      "promos_found": 0,
+      "promos": []
+    },
+    {
+      "episode_num": 10,
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 10,
+          "segments": [
+            {
+              "start_sec": 2.1,
+              "end_sec": 28.0,
+              "start_time": "00:02.10",
+              "end_time": "00:28.00",
+              "duration": 25.9
+            }
+          ],
+          "total_duration": 25.9,
+          "score": 0.649,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Alarmed, Breathless): \"\"Alexander!\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Medium shot of Juliana crossing her arms over her chest, eyeing him with qu",
+          "clarity_score": 0.5,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 25s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 11,
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 11,
+          "segments": [
+            {
+              "start_sec": 14.3,
+              "end_sec": 61.8,
+              "start_time": "00:14.30",
+              "end_time": "01:01.80",
+              "duration": 47.5
+            }
+          ],
+          "total_duration": 47.5,
+          "score": 0.673,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "JULIANA (Furious, Defiant): \"\"You have already taken enough from me. Leave!\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: The Constable aggressively pulls folded bed linens from a shelf and hurls t",
+          "clarity_score": 0.68,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 47s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 11,
+          "segments": [
+            {
+              "start_sec": 67.5,
+              "end_sec": 112.75,
+              "start_time": "01:07.50",
+              "end_time": "01:52.75",
+              "duration": 45.25
+            }
+          ],
+          "total_duration": 45.25,
+          "score": 0.592,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "GERALD (Cruel, Condescending): \"\"Stand aside. Look at this place. A perfect hiding hole for a thief.\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Tight macro shot of the gold pocket watch dangling and swaying gently from ",
+          "clarity_score": 0.53,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 45s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 12,
+      "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 12,
+          "segments": [
+            {
+              "start_sec": 43.7,
+              "end_sec": 87.21000000000001,
+              "start_time": "00:43.70",
+              "end_time": "01:27.21",
+              "duration": 43.51
+            }
+          ],
+          "total_duration": 43.51,
+          "score": 0.812,
+          "hook_score": 1.0,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CLARISSA (Cruel, Savoring): \"\"I want to see you crawl, sister.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: Juliana locks eyes with Clarissa without flinching as the scene freezes on ",
+          "clarity_score": 0.67,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 43s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 12,
+          "segments": [
+            {
+              "start_sec": 0.0,
+              "end_sec": 46.6,
+              "start_time": "00:00.00",
+              "end_time": "00:46.60",
+              "duration": 46.6
+            }
+          ],
+          "total_duration": 46.6,
+          "score": 0.582,
+          "hook_score": 0.45,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "CONSTABLE (Authoritative, Stern): \"\"Put out your hands, veteran. You are under arrest for theft.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Medium two-shot of Clarissa in the foreground, turning slowly to face Julia",
+          "clarity_score": 0.48,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 46s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 13,
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 13,
+          "segments": [
+            {
+              "start_sec": 53.5,
+              "end_sec": 82.2,
+              "start_time": "00:53.50",
+              "end_time": "01:22.20",
+              "duration": 28.7
+            }
+          ],
+          "total_duration": 28.7,
+          "score": 0.766,
+          "hook_score": 0.9,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Gasping in Pain): \"\"No...\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ALEXANDER: \"\"Stop!\"\"",
+          "clarity_score": 0.8,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 28s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 13,
+          "segments": [
+            {
+              "start_sec": 5.4,
+              "end_sec": 48.8,
+              "start_time": "00:05.40",
+              "end_time": "00:48.80",
+              "duration": 43.4
+            }
+          ],
+          "total_duration": 43.4,
+          "score": 0.671,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "ALEXANDER (Pleading, Agonized): \"\"Juliana, look at those thorns. You cannot do this.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ALEXANDER: \"\"Juliana, stop!\"\"",
+          "clarity_score": 0.76,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 43s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 14,
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 14,
+          "segments": [
+            {
+              "start_sec": 0.0,
+              "end_sec": 28.5,
+              "start_time": "00:00.00",
+              "end_time": "00:28.50",
+              "duration": 28.5
+            }
+          ],
+          "total_duration": 28.5,
+          "score": 0.712,
+          "hook_score": 0.9,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CAMERA: Close-up low angle looking through dense, sharp blackthorn branches onto th",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JULIANA: \"\"Nothing they didn't promise.\"\"",
+          "clarity_score": 0.53,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 28s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 15,
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 15,
+          "segments": [
+            {
+              "start_sec": 46.5,
+              "end_sec": 86.0,
+              "start_time": "00:46.50",
+              "end_time": "01:26.00",
+              "duration": 39.5
+            }
+          ],
+          "total_duration": 39.5,
+          "score": 0.759,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Steely, Fearless): \"\"No.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "SOUND: Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+          "clarity_score": 0.49,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 39s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 15,
+          "segments": [
+            {
+              "start_sec": 13.0,
+              "end_sec": 46.4,
+              "start_time": "00:13.00",
+              "end_time": "00:46.40",
+              "duration": 33.4
+            }
+          ],
+          "total_duration": 33.4,
+          "score": 0.648,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "THUG WITH CAP (Mocking, Smug): \"\"We're clearing this rubbish.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "THUG WITH CAP: \"\"Get out of the way!\"\"",
+          "clarity_score": 0.73,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 33s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 16,
+      "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 16,
+          "segments": [
+            {
+              "start_sec": 25.8,
+              "end_sec": 83.19,
+              "start_time": "00:25.80",
+              "end_time": "01:23.19",
+              "duration": 57.39
+            }
+          ],
+          "total_duration": 57.39,
+          "score": 0.785,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "THIRD THUG (Desperate, Shouting): \"\"Stay back!\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "SOUND: Slow, resonant emotional cello melody swelling to a dramatic cliffhanger ho",
+          "clarity_score": 0.7,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 57s and cuts on a ominous music / cut-to-black cliffhanger."
+        }
+      ]
+    },
+    {
+      "episode_num": 17,
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 17,
+          "segments": [
+            {
+              "start_sec": 7.0,
+              "end_sec": 30.0,
+              "start_time": "00:07.00",
+              "end_time": "00:30.00",
+              "duration": 23.0
+            }
+          ],
+          "total_duration": 23.0,
+          "score": 0.536,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Soft, Emotional): \"\"Some of them survived.\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Tracking shot following Alexander as he strides across the muddy garden and",
+          "clarity_score": 0.48,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 23s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 17,
+          "segments": [
+            {
+              "start_sec": 31.5,
+              "end_sec": 90.0,
+              "start_time": "00:31.50",
+              "end_time": "01:30.00",
+              "duration": 58.5
+            }
+          ],
+          "total_duration": 58.5,
+          "score": 0.526,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Choked Up, Pained): \"\"You cannot promise that.\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: Juliana slowly raises her hand, gently twirling a lock of Alexander's long,",
+          "clarity_score": 0.47,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 58s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 18,
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 18,
+          "segments": [
+            {
+              "start_sec": 111.5,
+              "end_sec": 148.5,
+              "start_time": "01:51.50",
+              "end_time": "02:28.50",
+              "duration": 37.0
+            }
+          ],
+          "total_duration": 37.0,
+          "score": 0.494,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "ACTION: Alexander leaps forward, using his shoulder and back to shatter through the",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JULIANA: \"\"Why would anyone do this?\"\"",
+          "clarity_score": 0.39,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 37s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 19,
+      "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 19,
+          "segments": [
+            {
+              "start_sec": 46.0,
+              "end_sec": 88.9,
+              "start_time": "00:46.00",
+              "end_time": "01:28.90",
+              "duration": 42.9
+            }
+          ],
+          "total_duration": 42.9,
+          "score": 0.515,
+          "hook_score": 0.4,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "ALEXANDER (Authoritative, Direct): \"\"Tell me what is happening in Ashburg.\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ALEXANDER: \"\"Then Ashburg will remember who it belongs to.\"\"",
+          "clarity_score": 0.67,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 42s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 20,
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 20,
+          "segments": [
+            {
+              "start_sec": 12.8,
+              "end_sec": 42.4,
+              "start_time": "00:12.80",
+              "end_time": "00:42.40",
+              "duration": 29.6
+            }
+          ],
+          "total_duration": 29.6,
+          "score": 0.743,
+          "hook_score": 1.0,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "RUPERT (Smug): \"\"The succession papers are being finalized as we speak.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "RUPERT: \"\"Not through the winter. I've ensured her quiet comfort.\"\"",
+          "clarity_score": 0.51,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 29s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 21,
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 21,
+          "segments": [
+            {
+              "start_sec": 79.8,
+              "end_sec": 114.0,
+              "start_time": "01:19.80",
+              "end_time": "01:54.00",
+              "duration": 34.2
+            }
+          ],
+          "total_duration": 34.2,
+          "score": 0.709,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "PRUDENCE (Grateful, Choked with Emotion): \"\"You saved him. The grand doctors left him to choke, but you...\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "CAMERA: Slow push-in on Lady Juliana staring down at the ancient pages, her express",
+          "clarity_score": 0.51,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 34s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 21,
+          "segments": [
+            {
+              "start_sec": 31.0,
+              "end_sec": 60.5,
+              "start_time": "00:31.00",
+              "end_time": "01:00.50",
+              "duration": 29.5
+            }
+          ],
+          "total_duration": 29.5,
+          "score": 0.585,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "PRUDENCE (Pleading, Desperate): \"\"He is only seven! If you do not come, he will die! You are his only hope, \"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: Lady Juliana crushes dried herbal leaves into a dark wooden bowl between he",
+          "clarity_score": 0.5,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 29s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 22,
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 22,
+          "segments": [
+            {
+              "start_sec": 91.5,
+              "end_sec": 131.0,
+              "start_time": "01:31.50",
+              "end_time": "02:11.00",
+              "duration": 39.5
+            }
+          ],
+          "total_duration": 39.5,
+          "score": 0.727,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "LADY JULIANA (Breathless): \"\"This house...\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "CAMERA: Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up a",
+          "clarity_score": 0.51,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 39s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 22,
+          "segments": [
+            {
+              "start_sec": 4.0,
+              "end_sec": 31.0,
+              "start_time": "00:04.00",
+              "end_time": "00:31.00",
+              "duration": 27.0
+            }
+          ],
+          "total_duration": 27.0,
+          "score": 0.567,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "PRUDENCE (Urgent, Whispering): \"\"Keep your head down. If anyone recognizes you, everything is over.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LADY JULIANA: \"\"Then I will face that when she is breathing again.\"\"",
+          "clarity_score": 0.52,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 27s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 23,
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic\u2014only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 23,
+          "segments": [
+            {
+              "start_sec": 79.0,
+              "end_sec": 131.5,
+              "start_time": "01:19.00",
+              "end_time": "02:11.50",
+              "duration": 52.5
+            }
+          ],
+          "total_duration": 52.5,
+          "score": 0.911,
+          "hook_score": 1.0,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "LADY JULIANA (Cold, Deadly Serious): \"\"Someone is poisoning her.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "CAMERA: Close-up on the brass door lever as it slowly rotates downward, and the hea",
+          "clarity_score": 0.67,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 52s and cuts on a ominous music / cut-to-black cliffhanger."
+        }
+      ]
+    },
+    {
+      "episode_num": 24,
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 24,
+          "segments": [
+            {
+              "start_sec": 31.0,
+              "end_sec": 81.0,
+              "start_time": "00:31.00",
+              "end_time": "01:21.00",
+              "duration": 50.0
+            }
+          ],
+          "total_duration": 50.0,
+          "score": 0.658,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "LADY JULIANA (Steely, Steadfast): \"\"I cannot do that.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LADY JULIANA: \"\"Let her think I am only a maid.\"\"",
+          "clarity_score": 0.69,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 50s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 25,
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 25,
+          "segments": [
+            {
+              "start_sec": 80.2,
+              "end_sec": 120.2,
+              "start_time": "01:20.20",
+              "end_time": "02:00.20",
+              "duration": 40.0
+            }
+          ],
+          "total_duration": 40.0,
+          "score": 0.707,
+          "hook_score": 0.9,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Hushed, Horrified): \"\"Poison.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JULIANA: \"\"She is still sick. I cannot leave her there.\"\"",
+          "clarity_score": 0.5,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 40s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 25,
+          "segments": [
+            {
+              "start_sec": 7.0,
+              "end_sec": 54.2,
+              "start_time": "00:07.00",
+              "end_time": "00:54.20",
+              "duration": 47.2
+            }
+          ],
+          "total_duration": 47.2,
+          "score": 0.596,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "ALEXANDER (Concerned, Suspicious): \"\"Why are you walking like that?\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Close-up of Juliana holding his gaze resolutely.",
+          "clarity_score": 0.47,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 47s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 26,
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 26,
+          "segments": [
+            {
+              "start_sec": 62.6,
+              "end_sec": 120.88,
+              "start_time": "01:02.60",
+              "end_time": "02:00.88",
+              "duration": 58.28
+            }
+          ],
+          "total_duration": 58.28,
+          "score": 0.834,
+          "hook_score": 0.9,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Reassuring, Steadfast): \"\"Yes. But the charcoal is fighting the poison. You are safe now.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "CAMERA: Tight close-up of the Dowager Duchess's two weathered hands tightly claspin",
+          "clarity_score": 0.52,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 58s and cuts on a ominous music / cut-to-black cliffhanger."
+        }
+      ]
+    },
+    {
+      "episode_num": 27,
+      "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 27,
+          "segments": [
+            {
+              "start_sec": 16.8,
+              "end_sec": 48.3,
+              "start_time": "00:16.80",
+              "end_time": "00:48.30",
+              "duration": 31.5
+            }
+          ],
+          "total_duration": 31.5,
+          "score": 0.617,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "DOWAGER DUCHESS (Trembling, Revelatory): \"\"That is no ordinary band. It bears the Ashbourne crest.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "SOUND: Loud, violent pounding echoes on the wooden double doors.",
+          "clarity_score": 0.48,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 31s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 28,
+      "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 28,
+          "segments": [
+            {
+              "start_sec": 15.2,
+              "end_sec": 72.0,
+              "start_time": "00:15.20",
+              "end_time": "01:12.00",
+              "duration": 56.8
+            }
+          ],
+          "total_duration": 56.8,
+          "score": 0.805,
+          "hook_score": 1.0,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Furious, Defiant): \"\"I did not poison her! Look at her eyes, the fever has broken!\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Tight close-up of Catherine's gloved hands grabbing the delicate chain arou",
+          "clarity_score": 0.7,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 56s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 29,
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 29,
+          "segments": [
+            {
+              "start_sec": 80.9,
+              "end_sec": 112.8,
+              "start_time": "01:20.90",
+              "end_time": "01:52.80",
+              "duration": 31.9
+            }
+          ],
+          "total_duration": 31.9,
+          "score": 0.536,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CAMERA: Wide shot tracking behind the guards as they march Juliana down the vaulted",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Front medium shot of Juliana slowly rising to her feet, crossing her arms f",
+          "clarity_score": 0.43,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 31s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 30,
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 30,
+          "segments": [
+            {
+              "start_sec": 94.6,
+              "end_sec": 136.2,
+              "start_time": "01:34.60",
+              "end_time": "02:16.20",
+              "duration": 41.6
+            }
+          ],
+          "total_duration": 41.6,
+          "score": 0.57,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "ELDER NOBLEMAN (Authoritative, Command): \"\"Do not hide the evidence, manufacture it. Drag her before the magistrate t\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "RUPERT: \"\"I will write the arrest warrant myself.\"\"",
+          "clarity_score": 0.51,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 41s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 31,
+      "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+      "promos_found": 3,
+      "promos": [
+        {
+          "episode_num": 31,
+          "segments": [
+            {
+              "start_sec": 118.4,
+              "end_sec": 160.0,
+              "start_time": "01:58.40",
+              "end_time": "02:40.00",
+              "duration": 41.6
+            }
+          ],
+          "total_duration": 41.6,
+          "score": 0.712,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Piercing, Provocative): \"\"Then why are you so desperate to make me kneel?\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "CAMERA: Extreme macro close-up of Juliana's wide, trembling eye. The brilliant oran",
+          "clarity_score": 0.52,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 41s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 31,
+          "segments": [
+            {
+              "start_sec": 43.0,
+              "end_sec": 80.2,
+              "start_time": "00:43.00",
+              "end_time": "01:20.20",
+              "duration": 37.2
+            }
+          ],
+          "total_duration": 37.2,
+          "score": 0.642,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "CATHERINE (Cold, Bitter): \"\"No. You became a disgrace when Gerald left you standing at the altar.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "CATHERINE: \"\"You call that marriage?\"\"",
+          "clarity_score": 0.7,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 37s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 31,
+          "segments": [
+            {
+              "start_sec": 0.0,
+              "end_sec": 23.5,
+              "start_time": "00:00.00",
+              "end_time": "00:23.50",
+              "duration": 23.5
+            }
+          ],
+          "total_duration": 23.5,
+          "score": 0.555,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CAMERA: Static medium shot of the heavy, iron-studded dungeon door as the massive b",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "CATHERINE: \"\"I am.\"\"",
+          "clarity_score": 0.48,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 23s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 32,
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 32,
+          "segments": [
+            {
+              "start_sec": 60.8,
+              "end_sec": 108.8,
+              "start_time": "01:00.80",
+              "end_time": "01:48.80",
+              "duration": 48.0
+            }
+          ],
+          "total_duration": 48.0,
+          "score": 0.543,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Passionate, Clear): \"\"He wanted a wife whose family could raise his name. He measured a woman's \"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Close-up of Catherine throwing her hands up in explosive defensiveness.",
+          "clarity_score": 0.47,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 48s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 33,
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+      "promos_found": 3,
+      "promos": [
+        {
+          "episode_num": 33,
+          "segments": [
+            {
+              "start_sec": 98.5,
+              "end_sec": 146.5,
+              "start_time": "01:38.50",
+              "end_time": "02:26.50",
+              "duration": 48.0
+            }
+          ],
+          "total_duration": 48.0,
+          "score": 0.718,
+          "hook_score": 0.9,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "MAID (Sobbing): \"\"Yes.\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LORD: \"\"You do not need to.\"\"",
+          "clarity_score": 0.81,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 48s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 33,
+          "segments": [
+            {
+              "start_sec": 32.8,
+              "end_sec": 80.5,
+              "start_time": "00:32.80",
+              "end_time": "01:20.50",
+              "duration": 47.7
+            }
+          ],
+          "total_duration": 47.7,
+          "score": 0.649,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "LORD (Coldly Dismissive): \"\"That is not what I asked.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LORD: \"\"The truth.\"\"",
+          "clarity_score": 0.82,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 47s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 33,
+          "segments": [
+            {
+              "start_sec": 0.0,
+              "end_sec": 22.8,
+              "start_time": "00:00.00",
+              "end_time": "00:22.80",
+              "duration": 22.8
+            }
+          ],
+          "total_duration": 22.8,
+          "score": 0.554,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "LORD (Cold, Authoritative): \"\"Your brother is breathing again.\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LORD: \"\"What herbs?\"\"",
+          "clarity_score": 0.66,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 22s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 34,
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+      "promos_found": 3,
+      "promos": [
+        {
+          "episode_num": 34,
+          "segments": [
+            {
+              "start_sec": 66.8,
+              "end_sec": 117.2,
+              "start_time": "01:06.80",
+              "end_time": "01:57.20",
+              "duration": 50.4
+            }
+          ],
+          "total_duration": 50.4,
+          "score": 0.71,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "PRUDENCE (Faltering, Desperate): \"\"She... placed herbs around my brother's bed.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Low-angle close-up of the Lord looking down arrogantly over his shoulder.",
+          "clarity_score": 0.78,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 50s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 34,
+          "segments": [
+            {
+              "start_sec": 107.3,
+              "end_sec": 138.4,
+              "start_time": "01:47.30",
+              "end_time": "02:18.40",
+              "duration": 31.1
+            }
+          ],
+          "total_duration": 31.1,
+          "score": 0.541,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "LORD (Mocking, Smug): \"\"She calls it healing.\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "LADY JULIANA: \"\"So I helped them.\"\"",
+          "clarity_score": 0.54,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 31s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 34,
+          "segments": [
+            {
+              "start_sec": 37.5,
+              "end_sec": 60.1,
+              "start_time": "00:37.50",
+              "end_time": "01:00.10",
+              "duration": 22.6
+            }
+          ],
+          "total_duration": 22.6,
+          "score": 0.537,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "JUDGE (Commanding): \"\"Prudence. You served beside the accused?\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JUDGE: \"\"What did you see?\"\"",
+          "clarity_score": 0.49,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 22s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 35,
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 35,
+          "segments": [
+            {
+              "start_sec": 33.8,
+              "end_sec": 74.0,
+              "start_time": "00:33.80",
+              "end_time": "01:14.00",
+              "duration": 40.2
+            }
+          ],
+          "total_duration": 40.2,
+          "score": 0.565,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "ALEXANDER'S MOTHER (Sobbing, Stunned): \"\"Alexander!\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ALEXANDER'S MOTHER: \"\"Then how did you survive?\"\"",
+          "clarity_score": 0.48,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 40s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 36,
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 36,
+          "segments": [
+            {
+              "start_sec": 160.5,
+              "end_sec": 200.75,
+              "start_time": "02:40.50",
+              "end_time": "03:20.75",
+              "duration": 40.25
+            }
+          ],
+          "total_duration": 40.25,
+          "score": 0.725,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "ALEXANDER (Deadly, Throaty): \"\"...and killing my wife afterward.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "SOUND: A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting ",
+          "clarity_score": 0.5,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 40s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 36,
+          "segments": [
+            {
+              "start_sec": 29.0,
+              "end_sec": 85.5,
+              "start_time": "00:29.00",
+              "end_time": "01:25.50",
+              "duration": 56.5
+            }
+          ],
+          "total_duration": 56.5,
+          "score": 0.587,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "ALEXANDER'S MOTHER (Horrified): \"\"They gave you to the enemy?\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ALEXANDER: \"\"What?\"\"",
+          "clarity_score": 0.66,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 56s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 37,
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+      "promos_found": 3,
+      "promos": [
+        {
+          "episode_num": 37,
+          "segments": [
+            {
+              "start_sec": 103.5,
+              "end_sec": 156.47,
+              "start_time": "01:43.50",
+              "end_time": "02:36.47",
+              "duration": 52.97
+            }
+          ],
+          "total_duration": 52.97,
+          "score": 0.798,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Straining, Defiant Gasps): \"\"I will not!\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "SOUND: A deep, ominous cello rumble builds alongside the crackle of the fireplace ",
+          "clarity_score": 0.72,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 52s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 37,
+          "segments": [
+            {
+              "start_sec": 37.0,
+              "end_sec": 92.0,
+              "start_time": "00:37.00",
+              "end_time": "01:32.00",
+              "duration": 55.0
+            }
+          ],
+          "total_duration": 55.0,
+          "score": 0.656,
+          "hook_score": 0.4,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "BUTLER (Formal): \"\"Lady Clarissa, an invitation from Ashbridge Manor.\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "SOUND: Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mou",
+          "clarity_score": 0.47,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 55s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 37,
+          "segments": [
+            {
+              "start_sec": 92.0,
+              "end_sec": 112.5,
+              "start_time": "01:32.00",
+              "end_time": "01:52.50",
+              "duration": 20.5
+            }
+          ],
+          "total_duration": 20.5,
+          "score": 0.49,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CAMERA: Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained ",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JULIANA: \"\"They can take my name. They can take my home.\"\"",
+          "clarity_score": 0.45,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 20s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 38,
+      "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 38,
+          "segments": [
+            {
+              "start_sec": 45.5,
+              "end_sec": 87.91,
+              "start_time": "00:45.50",
+              "end_time": "01:27.91",
+              "duration": 42.41
+            }
+          ],
+          "total_duration": 42.41,
+          "score": 0.864,
+          "hook_score": 1.0,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Fearful, Pleading): \"\"What if I die here?\"\"",
+          "cliffhanger_score": 0.95,
+          "cliffhanger_type": "Ominous Music / Cut-to-Black Cliffhanger",
+          "cliffhanger_description": "CAMERA: Dramatic cut to black.",
+          "clarity_score": 0.41,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 42s and cuts on a ominous music / cut-to-black cliffhanger."
+        },
+        {
+          "episode_num": 38,
+          "segments": [
+            {
+              "start_sec": 16.0,
+              "end_sec": 51.0,
+              "start_time": "00:16.00",
+              "end_time": "00:51.00",
+              "duration": 35.0
+            }
+          ],
+          "total_duration": 35.0,
+          "score": 0.647,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "JULIANA (Breathless, Bewildered): \"\"Why?\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: A heavy tear drips down from her jaw, falling into the dark dampness below.",
+          "clarity_score": 0.55,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 35s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 39,
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 39,
+          "segments": [
+            {
+              "start_sec": 59.8,
+              "end_sec": 90.2,
+              "start_time": "00:59.80",
+              "end_time": "01:30.20",
+              "duration": 30.4
+            }
+          ],
+          "total_duration": 30.4,
+          "score": 0.551,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "ALEXANDER (Deep, Steely Resolve): \"\"Enough hiding.\"\"",
+          "cliffhanger_score": 0.4,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ALEXANDER: \"\"I am taking back my house.\"\"",
+          "clarity_score": 0.51,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 30s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 40,
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution\u2014unaware that Alexander's retribution is already at their gates.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 40,
+          "segments": [
+            {
+              "start_sec": 26.2,
+              "end_sec": 63.8,
+              "start_time": "00:26.20",
+              "end_time": "01:03.80",
+              "duration": 37.6
+            }
+          ],
+          "total_duration": 37.6,
+          "score": 0.581,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "LORD HARRINGTON (Sinister, Dismissive): \"\"She won't be seeing anything for long.\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: High-angle wide shot looking down from the balcony across the entire cathed",
+          "clarity_score": 0.57,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 37s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 41,
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced\u2014until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+      "promos_found": 0,
+      "promos": []
+    },
+    {
+      "episode_num": 42,
+      "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 42,
+          "segments": [
+            {
+              "start_sec": 23.5,
+              "end_sec": 73.8,
+              "start_time": "00:23.50",
+              "end_time": "01:13.80",
+              "duration": 50.3
+            }
+          ],
+          "total_duration": 50.3,
+          "score": 0.769,
+          "hook_score": 1.0,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "BLOND NOBLEMAN (Screaming, Outraged): \"\"I said arrest him!\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Medium shot of Rupert cowering on the altar steps beside Catherine and her ",
+          "clarity_score": 0.72,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 50s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 42,
+          "segments": [
+            {
+              "start_sec": 0.0,
+              "end_sec": 28.8,
+              "start_time": "00:00.00",
+              "end_time": "00:28.80",
+              "duration": 28.8
+            }
+          ],
+          "total_duration": 28.8,
+          "score": 0.622,
+          "hook_score": 0.4,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "CAMERA: Low-angle shot through drifting smoke and rubble across the stone floor, ti",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Close-up on the Royal Guard holding his upright blade with unwavering convi",
+          "clarity_score": 0.78,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 28s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 43,
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 43,
+          "segments": [
+            {
+              "start_sec": 0.6,
+              "end_sec": 21.5,
+              "start_time": "00:00.60",
+              "end_time": "00:21.50",
+              "duration": 20.9
+            }
+          ],
+          "total_duration": 20.9,
+          "score": 0.567,
+          "hook_score": 0.45,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "BLOND NOBLEMAN (Hysterical, Panicked): \"\"You're lying!\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "ROYAL GUARD: \"\"No. He is your Duke.\"\"",
+          "clarity_score": 0.65,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 20s and cuts on a impending peril / threat."
+        }
+      ]
+    },
+    {
+      "episode_num": 44,
+      "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 44,
+          "segments": [
+            {
+              "start_sec": 8.6,
+              "end_sec": 34.0,
+              "start_time": "00:08.60",
+              "end_time": "00:34.00",
+              "duration": 25.4
+            }
+          ],
+          "total_duration": 25.4,
+          "score": 0.817,
+          "hook_score": 1.0,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "LORD STERLING (Snarls, Outraged): \"\"You have no authority!\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Profile close-up of Catherine as a tear slips down her cheek.",
+          "clarity_score": 0.73,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 25s and cuts on a sudden action cut on climax."
+        },
+        {
+          "episode_num": 44,
+          "segments": [
+            {
+              "start_sec": 31.2,
+              "end_sec": 53.0,
+              "start_time": "00:31.20",
+              "end_time": "00:53.00",
+              "duration": 21.8
+            }
+          ],
+          "total_duration": 21.8,
+          "score": 0.679,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CATHERINE (O.S.) (Pleading): \"\"I mourned you.\"\"",
+          "cliffhanger_score": 0.65,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Extreme close-up on Catherine's tearful face.",
+          "clarity_score": 0.68,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 21s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 45,
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 45,
+          "segments": [
+            {
+              "start_sec": 54.0,
+              "end_sec": 108.8,
+              "start_time": "00:54.00",
+              "end_time": "01:48.80",
+              "duration": 54.8
+            }
+          ],
+          "total_duration": 54.8,
+          "score": 0.616,
+          "hook_score": 0.55,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "ALEXANDER (Furious, Cold): \"\"You poisoned my mother. You tortured my wife.\"\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "HIGH PRIEST: \"\"Before the Crown, you are not Duchess of Ashburton.\"\"",
+          "clarity_score": 0.7,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 54s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 45,
+          "segments": [
+            {
+              "start_sec": 12.2,
+              "end_sec": 42.0,
+              "start_time": "00:12.20",
+              "end_time": "00:42.00",
+              "duration": 29.8
+            }
+          ],
+          "total_duration": 29.8,
+          "score": 0.608,
+          "hook_score": 0.65,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "JULIANA (Breathless, Overcome): \"\"Your eyes...\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Tight close-up on Alexander looking deep into Juliana's blue eyes.",
+          "clarity_score": 0.53,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 29s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 46,
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+      "promos_found": 2,
+      "promos": [
+        {
+          "episode_num": 46,
+          "segments": [
+            {
+              "start_sec": 26.8,
+              "end_sec": 65.5,
+              "start_time": "00:26.80",
+              "end_time": "01:05.50",
+              "duration": 38.7
+            }
+          ],
+          "total_duration": 38.7,
+          "score": 0.697,
+          "hook_score": 0.85,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "HIGH PRIEST (Resonant, Dismissive): \"\"Three years later, the beggar is revealed to be a Duke. The marriage does \"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "JULIANA: \"\"I won't ask it for permission to love.\"\"",
+          "clarity_score": 0.53,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 38s and cuts on a impending peril / threat."
+        },
+        {
+          "episode_num": 46,
+          "segments": [
+            {
+              "start_sec": 92.2,
+              "end_sec": 140.5,
+              "start_time": "01:32.20",
+              "end_time": "02:20.50",
+              "duration": 48.3
+            }
+          ],
+          "total_duration": 48.3,
+          "score": 0.6,
+          "hook_score": 0.6,
+          "hook_type": "Verbal Humiliation / Betrayal",
+          "hook_description": "HIGH PRIEST (Commanding, Severe): \"\"God did not marry you. A frightened parishioner did, without leave, withou\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: The High Priest turns sharply on his heel and strides past the guards towar",
+          "clarity_score": 0.57,
+          "why_it_works": "Opens on a sharp verbal humiliation / betrayal within 3s; builds high archetypal conflict across 48s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 47,
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne\u2014only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 47,
+          "segments": [
+            {
+              "start_sec": 43.0,
+              "end_sec": 86.5,
+              "start_time": "00:43.00",
+              "end_time": "01:26.50",
+              "duration": 43.5
+            }
+          ],
+          "total_duration": 43.5,
+          "score": 0.58,
+          "hook_score": 0.4,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "ALEXANDER (Deep, Unwavering): \"\"You are my wife.\"\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "CAMERA: Medium shot of Alexander turning toward Juliana in sheer disbelief.",
+          "clarity_score": 0.82,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 43s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 48,
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+      "promos_found": 0,
+      "promos": []
+    },
+    {
+      "episode_num": 49,
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 49,
+          "segments": [
+            {
+              "start_sec": 104.2,
+              "end_sec": 139.5,
+              "start_time": "01:44.20",
+              "end_time": "02:19.50",
+              "duration": 35.3
+            }
+          ],
+          "total_duration": 35.3,
+          "score": 0.524,
+          "hook_score": 0.4,
+          "hook_type": "Shock Identity / Power Reveal",
+          "hook_description": "FATHER THOMAS (Wary, Grave): \"\"If I keep the hearing open, if I feed you every word spoken behind those d\"",
+          "cliffhanger_score": 0.5,
+          "cliffhanger_type": "Sudden Action Cut on Climax",
+          "cliffhanger_description": "ACTION: Father Thomas slowly raises his right hand, palm turned upward in invitatio",
+          "clarity_score": 0.55,
+          "why_it_works": "Opens on a sharp shock identity / power reveal within 3s; builds high archetypal conflict across 35s and cuts on a sudden action cut on climax."
+        }
+      ]
+    },
+    {
+      "episode_num": 50,
+      "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control\u2014unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+      "promos_found": 1,
+      "promos": [
+        {
+          "episode_num": 50,
+          "segments": [
+            {
+              "start_sec": 1.8,
+              "end_sec": 35.0,
+              "start_time": "00:01.80",
+              "end_time": "00:35.00",
+              "duration": 33.2
+            }
+          ],
+          "total_duration": 33.2,
+          "score": 0.573,
+          "hook_score": 0.5,
+          "hook_type": "Physical Shock / Confrontation",
+          "hook_description": "CATHERINE (Playful, Seductive): \"\"A man in your collar isn't supposed to have that much left in him, Thomas.\"",
+          "cliffhanger_score": 0.55,
+          "cliffhanger_type": "Impending Peril / Threat",
+          "cliffhanger_description": "FATHER THOMAS: \"\"Absolution is free. Discretion has a price.\"\"",
+          "clarity_score": 0.53,
+          "why_it_works": "Opens on a sharp physical shock / confrontation within 3s; builds high archetypal conflict across 33s and cuts on a impending peril / threat."
+        }
+      ]
+    }
+  ]
+}

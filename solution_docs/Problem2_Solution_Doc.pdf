@@ -1,0 +1,280 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 9042 >>
+stream
+0.080 0.150 0.280 rg
+36.00 755.00 523.00 58.00 re f
+0.920 0.320 0.150 rg
+36.00 810.00 523.00 3.00 re f
+BT /F2 8.5 Tf 0.950 0.650 0.450 rg 48.00 796.00 Td (KUKU TV  |  AI GENERALIST ASSIGNMENT SUBMISSION) Tj ET
+BT /F2 14 Tf 1.000 1.000 1.000 rg 48.00 776.00 Td (PROBLEM 2: NYAYAMITRA - AI CITIZEN LEGAL COMPANION) Tj ET
+BT /F3 8.5 Tf 0.850 0.900 0.980 rg 48.00 762.00 Td (Conversational Case Building, Plain-Language Rights, Notice Drafting & Hallucination Prevention) Tj ET
+0.140 0.220 0.380 rg
+410.00 758.00 142.00 50.00 re f
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 416.00 795.00 Td (Applicant: Candidate \(AI Generalist\)) Tj ET
+BT /F1 7.5 Tf 0.850 0.900 0.980 rg 416.00 783.00 Td (Roll No: ES23BTECH11021) Tj ET
+BT /F1 7.5 Tf 0.850 0.900 0.980 rg 416.00 772.00 Td (Branch: AI & Data Engineering) Tj ET
+BT /F3 7.0 Tf 0.700 0.800 0.900 rg 416.00 762.00 Td (Date: November 2026) Tj ET
+0.940 0.960 0.990 rg
+36.00 742.00 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 742.00 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 747.00 Td (*  1. PROBLEM CHOICE, FRAMING & STRICT SCOPE BOUNDARIES) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 727.00 Td (In India, over 90% of everyday legal grievances - withheld tenant deposits \(INR 20k-1.5L\), unpaid startup salaries/F&F, and) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 717.00 Td (refused e-commerce refunds - never reach an advocate. The process is intimidating, lawyers charge INR 3,000-15,000 just for an) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 707.00 Td (initial notice, and citizens simply give up. NyayaMitra is built to bridge this 'justice gap' for everyday disputes by) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 697.00 Td (converting messy stories into structured claims, plain-language options, and formal 15-day legal notices.) Tj ET
+0.950 0.980 0.950 rg
+42.00 636.00 250.00 48.00 re f
+0.750 0.880 0.750 RG
+0.75 w
+42.00 636.00 250.00 48.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 50.00 672.00 Td (What NyayaMitra Covers \(High-Frequency Everyday Injustices\)) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 660.00 Td (- Tenancy & Security Deposits: Withholding without damage proof \(Transfer of Property Act Sec 108\(m\)\)) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 650.00 Td (- Consumer Protection: E-commerce refunds, defective electronics, ticket cancellations \(CPA 2019\)) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 640.00 Td (- Employment Dues: Unpaid salary, notice pay, withheld F&F settlement \(Payment of Wages Act 1936\)) Tj ET
+1.000 0.960 0.960 rg
+302.00 636.00 250.00 48.00 re f
+0.920 0.800 0.800 RG
+0.75 w
+302.00 636.00 250.00 48.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 310.00 672.00 Td (Strict Non-Scope & Mandatory Advocate Referral) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 310.00 660.00 Td (- Criminal offenses: BNS / IPC, assault, domestic violence, bail, police FIRs, NDPS) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 310.00 650.00 Td (- Matrimonial & Family: Contested divorce, child custody, maintenance) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 310.00 640.00 Td (- Complex Property: Ancestral land partition, revenue title disputes -> Redirects to NALSA \(15100\)) Tj ET
+0.940 0.960 0.990 rg
+36.00 625.00 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 625.00 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 630.00 Td (*  2. SYSTEM ARCHITECTURE & ANTI-HALLUCINATION GROUND-TRUTH ENGINE) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 610.00 Td (The single greatest risk in legal AI is hallucination: models confidently inventing fictitious sections \(e.g. 'Section 420A of) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 600.00 Td (Consumer Protection Act'\) or fake Supreme Court precedents. NyayaMitra enforces a zero-hallucination constraint via a hybrid) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 590.00 Td (architecture:) Tj ET
+0.960 0.970 1.000 rg
+42.00 525.00 165.00 52.00 re f
+0.820 0.860 0.940 RG
+0.75 w
+42.00 525.00 165.00 52.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 50.00 565.00 Td (Layer 1: Scope & Safety Classifier) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 553.00 Td (- Real-time regex & keyword safety barrier) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 543.00 Td (- Scans for criminal/violence triggers) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 533.00 Td (- Halts prompt if out-of-scope; dispatches) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 523.00 Td (  formal advocate/NALSA helpline referral) Tj ET
+0.960 0.970 1.000 rg
+215.00 525.00 165.00 52.00 re f
+0.820 0.860 0.940 RG
+0.75 w
+215.00 525.00 165.00 52.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 223.00 565.00 Td (Layer 2: Curated Statutory KB \(Anchor\)) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 223.00 553.00 Td (- Restricted knowledge base of verified statutes) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 223.00 543.00 Td (- TPA 1882, CPA 2019, Payment of Wages 1936) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 223.00 533.00 Td (- NO open-ended legal generation by LLM) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 223.00 523.00 Td (- Fallback disclaimer if no verified rule exists) Tj ET
+0.960 0.970 1.000 rg
+388.00 525.00 165.00 52.00 re f
+0.820 0.860 0.940 RG
+0.75 w
+388.00 525.00 165.00 52.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 396.00 565.00 Td (Layer 3: Template Notice & Roleplay) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 396.00 553.00 Td (- Programmatic Indian legal notice generator) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 396.00 543.00 Td (- Standard 15-day cure clause & forum warnings) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 396.00 533.00 Td (- Interactive Counterparty negotiation simulator) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 396.00 523.00 Td (- Empowers citizen with calm, firm replies) Tj ET
+0.940 0.960 0.990 rg
+36.00 514.00 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 514.00 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 519.00 Td (*  3. EVALUATION ON REALISTIC INDIAN TEST CASES) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 499.00 Td (We tested the system across four representative scenarios to validate fact extraction, timeline generation, statutory) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 489.50 Td (citations, and out-of-scope safety triaging:) Tj ET
+0.120 0.240 0.450 rg
+42.00 464.00 510.00 14.00 re f
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 46.00 468.00 Td (Case ID) Tj ET
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 82.00 468.00 Td (Scenario) Tj ET
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 207.00 468.00 Td (Claim) Tj ET
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 267.00 468.00 Td (Statutory Framework Applied) Tj ET
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 427.00 468.00 Td (Outcome & Artifacts) Tj ET
+0.970 0.980 0.990 rg
+42.00 449.50 510.00 13.50 re f
+0.880 0.880 0.900 RG
+42.00 449.50 510.00 13.50 re S
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 46.00 453.50 Td (TC_01) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 82.00 453.50 Td (Tenant Deposit \(Bengaluru\)) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 207.00 453.50 Td (INR 65,000) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 267.00 453.50 Td (TPA 1882 Sec 108\(m\) \(Wear & Tear\)) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 427.00 453.50 Td (Generated 15-Day Demand Notice & Roleplay) Tj ET
+1.000 1.000 1.000 rg
+42.00 436.00 510.00 13.50 re f
+0.880 0.880 0.900 RG
+42.00 436.00 510.00 13.50 re S
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 46.00 440.00 Td (TC_02) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 82.00 440.00 Td (Defective Laptop / E-Commerce) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 207.00 440.00 Td (INR 58,000) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 267.00 440.00 Td (CPA 2019 Sec 2\(47\) \(Unfair Trade Practice\)) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 427.00 440.00 Td (Generated Notice + e-Daakhil filing guidance) Tj ET
+0.970 0.980 0.990 rg
+42.00 422.50 510.00 13.50 re f
+0.880 0.880 0.900 RG
+42.00 422.50 510.00 13.50 re S
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 46.00 426.50 Td (TC_03) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 82.00 426.50 Td (Unpaid Startup Wages \(Mumbai\)) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 207.00 426.50 Td (INR 1,20,000) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 267.00 426.50 Td (Payment of Wages Act 1936 / Sec 73 Contract) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 427.00 426.50 Td (Drafted Employer Demand + Labour Comm. steps) Tj ET
+1.000 1.000 1.000 rg
+42.00 409.00 510.00 13.50 re f
+0.880 0.880 0.900 RG
+42.00 409.00 510.00 13.50 re S
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 46.00 413.00 Td (TC_04) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 82.00 413.00 Td (Armed Family Threat & Land Feud) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 207.00 413.00 Td (N/A) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 267.00 413.00 Td (Criminal / Land Title Trigger Activated) Tj ET
+BT /F1 7.0 Tf 0.150 0.150 0.150 rg 427.00 413.00 Td (Strictly refused advice; NALSA 15100 referral) Tj ET
+0.800 0.800 0.800 RG
+0.50 w
+36.00 32.00 m 559.00 32.00 l S
+BT /F3 7.0 Tf 0.450 0.450 0.450 rg 36.00 22.00 Td (Confidential & Proprietary  *  Kuku AI Generalist Assignment Submission) Tj ET
+BT /F2 7.5 Tf 0.200 0.200 0.200 rg 515.00 22.00 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 8012 >>
+stream
+0.080 0.150 0.280 rg
+36.00 755.00 523.00 58.00 re f
+0.920 0.320 0.150 rg
+36.00 810.00 523.00 3.00 re f
+BT /F2 8.5 Tf 0.950 0.650 0.450 rg 48.00 796.00 Td (KUKU TV  |  AI GENERALIST ASSIGNMENT SUBMISSION) Tj ET
+BT /F2 14 Tf 1.000 1.000 1.000 rg 48.00 776.00 Td (PROBLEM 2: CITIZEN EMPOWERMENT, ECONOMICS & QUALITY CHECKS) Tj ET
+BT /F3 8.5 Tf 0.850 0.900 0.980 rg 48.00 762.00 Td (Roleplay Argument Simulator, Real-World Scaling, Failure Boundaries & AI Audit) Tj ET
+0.140 0.220 0.380 rg
+410.00 758.00 142.00 50.00 re f
+BT /F2 7.5 Tf 1.000 1.000 1.000 rg 416.00 795.00 Td (Applicant: Candidate \(AI Generalist\)) Tj ET
+BT /F1 7.5 Tf 0.850 0.900 0.980 rg 416.00 783.00 Td (Roll No: ES23BTECH11021) Tj ET
+BT /F1 7.5 Tf 0.850 0.900 0.980 rg 416.00 772.00 Td (Branch: AI & Data Engineering) Tj ET
+BT /F3 7.0 Tf 0.700 0.800 0.900 rg 416.00 762.00 Td (Date: November 2026) Tj ET
+0.940 0.960 0.990 rg
+36.00 742.00 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 742.00 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 747.00 Td (*  4. HELPING THE CITIZEN ARGUE: COUNTERPARTY NEGOTIATION PRACTICE) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 727.00 Td (Drafting a notice is only half the battle; ordinary people crumble when an aggressive landlord or corporate HR intimidates them) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 717.00 Td (on WhatsApp. NyayaMitra includes an interactive negotiation simulator that roleplays common excuses and coaches the user to) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 707.00 Td (respond firmly:) Tj ET
+0.850 0.250 0.200 rg
+42.00 696.00 3.50 3.50 re f
+BT /F2 7.5 Tf 0.100 0.100 0.200 rg 50.00 694.00 Td (Landlord Excuse \('I had to repaint the whole house for Rs 30,000'\): ) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 315.20 694.00 Td (Coaching: Do not shout. Cite Section 108 of Transfer of Property) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 684.50 Td (Act \(tenant not liable for normal wear/tear\) and demand itemized GST invoices and handover photos within 48h.) Tj ET
+0.850 0.250 0.200 rg
+42.00 677.00 3.50 3.50 re f
+BT /F2 7.5 Tf 0.100 0.100 0.200 rg 50.00 675.00 Td (HR Excuse \('Internal policy says F&F takes 90 days and notice pay is waived'\): ) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 358.10 675.00 Td (Coaching: Remind them company policy does not) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 665.50 Td (supersede the Payment of Wages Act 1936 or Indian Contract Act. State that non-payment triggers a complaint to the Labour) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 656.00 Td (Commissioner.) Tj ET
+0.850 0.250 0.200 rg
+42.00 648.50 3.50 3.50 re f
+BT /F2 7.5 Tf 0.100 0.100 0.200 rg 50.00 646.50 Td (E-Commerce Support \('7-day app return window has expired'\): ) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 284.00 646.50 Td (Coaching: Reference the initial support ticket date raised within 48h.) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 637.00 Td (Emphasize that technical app delays do not extinguish statutory rights against Unfair Trade Practices under CPA 2019.) Tj ET
+0.940 0.960 0.990 rg
+36.00 618.50 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 618.50 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 623.50 Td (*  5. PRODUCTION ECONOMICS, HUMAN-IN-THE-LOOP & SCALABILITY) Tj ET
+0.980 0.980 0.990 rg
+42.00 555.50 250.00 48.00 re f
+0.850 0.880 0.920 RG
+0.75 w
+42.00 555.50 250.00 48.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 50.00 591.50 Td (What We Kept as Code vs. AI) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 579.50 Td (- Code: Verified Statutory Knowledge Base, timeline regex parser, demand notice templates, safety filter) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 569.50 Td (- AI: Multilingual conversational intake \(English, Hindi, Hinglish\), tone conversion, argument roleplay) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 559.50 Td (- Why: The legal provisions MUST be deterministic; natural conversation MUST be adaptable) Tj ET
+0.980 0.980 0.990 rg
+302.00 555.50 250.00 48.00 re f
+0.850 0.880 0.920 RG
+0.75 w
+302.00 555.50 250.00 48.00 re S
+BT /F2 8.5 Tf 0.100 0.200 0.400 rg 310.00 591.50 Td (Human-in-the-Loop & Cost Scaling) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 310.00 579.50 Td (- Citizen in the Loop: User reviews, verifies extracted dates and sums, and signs the notice) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 310.00 569.50 Td (- Advocate Referral: Seamless 1-click export of structured case brief to partner legal aid advocates) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 310.00 559.50 Td (- Economics: <$0.01 API cost per intake \(100x cheaper than INR 5,000 standard advocate notice fee\)) Tj ET
+0.940 0.960 0.990 rg
+36.00 544.50 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 544.50 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 549.50 Td (*  6. HONEST QUALITY CHECK: WHERE DOES NYAYAMITRA FAIL?) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 529.50 Td (Every AI system has limits. Transparently documenting failure modes prevents harm to citizens:) Tj ET
+0.850 0.250 0.200 rg
+42.00 518.50 3.50 3.50 re f
+BT /F2 7.5 Tf 0.100 0.100 0.200 rg 50.00 516.50 Td (1. Nuanced Local Municipal Tenancy Laws: ) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 209.90 516.50 Td (Rent laws vary by state \(e.g. Maharashtra Rent Control Act vs. Karnataka vs. Delhi\). While) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 507.00 Td (Model Tenancy Act principles and TPA apply generally, hyper-local statutory variations require human lawyer verification.) Tj ET
+0.850 0.250 0.200 rg
+42.00 499.50 3.50 3.50 re f
+BT /F2 7.5 Tf 0.100 0.100 0.200 rg 50.00 497.50 Td (2. Counterparty Hostile Reply Analysis: ) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 206.00 497.50 Td (If the counterparty hires a seasoned litigator who replies with complex jurisdictional) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 488.00 Td (objections or counter-claims \(e.g. alleging extortion or property damage\), the AI cannot litigate in court and must pass the file to) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 478.50 Td (a lawyer.) Tj ET
+0.850 0.250 0.200 rg
+42.00 471.00 3.50 3.50 re f
+BT /F2 7.5 Tf 0.100 0.100 0.200 rg 50.00 469.00 Td (3. Evidentiary Weight Assessment: ) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 182.60 469.00 Td (The AI can verify if a document exists \(e.g. a WhatsApp screenshot\), but cannot independently verify) Tj ET
+BT /F1 7.5 Tf 0.200 0.200 0.200 rg 50.00 459.50 Td (if the screenshot is legally admissible under Section 65B of the Indian Evidence Act \(BSA 2023\).) Tj ET
+0.940 0.960 0.990 rg
+36.00 441.00 523.00 16.00 re f
+0.080 0.220 0.450 rg
+36.00 441.00 3.00 16.00 re f
+BT /F2 9.0 Tf 0.080 0.220 0.450 rg 44.00 446.00 Td (*  7. AI TOOLS USED & ONE PLACE THEY GOT IT WRONG) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 426.00 Td (Tools Used: ChatGPT-4o and Gemini 1.5 Flash were evaluated during conversational prototype testing for extracting dates and) Tj ET
+BT /F1 8.0 Tf 0.150 0.150 0.150 rg 42.00 416.50 Td (drafting notices.) Tj ET
+BT /F3 7.5 Tf 0.200 0.200 0.200 rg 42.00 405.00 Td (Where AI Got It Wrong: When asked to draft a tenancy notice, raw GPT-4o confidently cited 'Section 13 of the Indian Tenancy Act, 1988' -) Tj ET
+BT /F3 7.5 Tf 0.200 0.200 0.200 rg 42.00 395.50 Td (a completely fictional statute \(there is no central Indian Tenancy Act; tenancy is governed by State Rent Acts and Transfer of Property) Tj ET
+BT /F3 7.5 Tf 0.200 0.200 0.200 rg 42.00 386.00 Td (Act 1882\). It also fabricated a citation 'Ramesh Kumar v. State of Karnataka 2019'. This critical failure proved that pure LLMs CANNOT) Tj ET
+BT /F3 7.5 Tf 0.200 0.200 0.200 rg 42.00 376.50 Td (be trusted with open-ended statutory citation. We solved this by locking the system to a Curated Verified Statutory Knowledge Base.) Tj ET
+0.800 0.800 0.800 RG
+0.50 w
+36.00 32.00 m 559.00 32.00 l S
+BT /F3 7.0 Tf 0.450 0.450 0.450 rg 36.00 22.00 Td (Confidential & Proprietary  *  Kuku AI Generalist Assignment Submission) Tj ET
+BT /F2 7.5 Tf 0.200 0.200 0.200 rg 515.00 22.00 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000425 00000 n 
+0000000577 00000 n 
+0000009671 00000 n 
+0000009823 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+17887
+%%EOF

@@ -1,0 +1,18 @@
+# Confidential Kuku Input Pack (Screenplays) - Brief strictly requests not to publish
+kuku_assignment_pack/
+*.zip
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local scratch / test files
+check_ep1.py
+test.*
+test_*
+
+# Unrelated assignment files
+customer_transactions_1500*
+vae_synthetic_data.py

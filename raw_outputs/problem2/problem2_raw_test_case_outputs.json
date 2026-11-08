@@ -1,0 +1,243 @@
+[
+  {
+    "test_case_id": "TC_01_TENANCY",
+    "title": "Landlord Withholding Security Deposit in Bengaluru",
+    "raw_input": "I rented a 2BHK in Koramangala Bengaluru. I gave 1 month notice on 1st October as per agreement and vacated on 31st October. My security deposit was Rs 65000. When I asked for my refund, the landlord blocked my number and told my roommate that he is deducting Rs 35000 for full house painting and Rs 30000 for minor scratches and cleaning. The house was completely clean when I handed over keys, and I have full video proof taken on 31st October.",
+    "parties": {
+      "user": {
+        "name": "Arjun Sharma",
+        "city": "Bengaluru",
+        "phone": "+91-9845012345",
+        "email": "arjun.sharma@gmail.com"
+      },
+      "respondent": {
+        "name": "Ramesh Kumar (Landlord)",
+        "address": "Flat 302, Green View Apts, Koramangala 4th Block, Bengaluru - 560034"
+      }
+    },
+    "case_assessment": {
+      "status": "VALID_EVERYDAY_DISPUTE",
+      "domain": "Tenancy & Security Deposit Recovery",
+      "disputed_amount": "INR 65000",
+      "timeline": [
+        {
+          "phase": "1st October ",
+          "event": "I rented a 2BHK in Koramangala Bengaluru"
+        },
+        {
+          "phase": "31st October",
+          "event": "I gave 1 month notice on 1st October as per agreement and vacated on 31st October"
+        },
+        {
+          "phase": "31st October",
+          "event": "My security deposit was Rs 65000"
+        },
+        {
+          "phase": "Phase 4",
+          "event": "When I asked for my refund, the landlord blocked my number and told my roommate that he is deducting Rs 35000 for full house painting and Rs 30000 for minor scratches and cleaning"
+        },
+        {
+          "phase": "Phase 5",
+          "event": "The house was completely clean when I handed over keys, and I have full video proof taken on 31st October"
+        }
+      ],
+      "applicable_law": "Transfer of Property Act, 1882 (Section 108(m) - Reasonable Wear & Tear) & Model Tenancy Act principles",
+      "plain_language_summary": "Landlord cannot unilaterally forfeit security deposit for normal wear and tear unless explicitly detailed with written invoices. Security deposit must be refunded within 30 days of vacant possession.",
+      "statutory_provisions": [
+        "Transfer of Property Act, 1882, Section 108: Lessee is bound to keep property in good condition, reasonable wear and tear excepted.",
+        "Indian Contract Act, 1872, Section 73: Compensation for loss or damage caused by breach of contract.",
+        "State Rent Control Acts / Model Tenancy Framework: Maximum deposit limits and mandatory settlement timeline."
+      ],
+      "remedies": [
+        "Issue formal 15-day Legal Demand Notice demanding refund with 18% p.a. interest.",
+        "File petition before Rent Authority / Rent Court (where Model Tenancy Act is notified) or Civil Court (Summary Suit under Order XXXVII CPC for liquidated debt).",
+        "File Consumer Complaint if landlord is a commercial co-living company (e.g., Stanza, Zolo) under Consumer Protection Act, 2019."
+      ],
+      "evidence_checklist": [
+        "Registered or signed Rental Agreement",
+        "Proof of initial deposit payment (bank transaction/UPI receipt)",
+        "Notice of termination given via Email/WhatsApp with date of handover",
+        "Photos/videos of the empty flat showing clean condition at handover",
+        "Keys handover acknowledgement or chat confirmation"
+      ]
+    },
+    "generated_legal_notice": "================================================================================\nFORMAL LEGAL DEMAND NOTICE (WITHOUT PREJUDICE)\nIssued under Section 108 Transfer of Property Act / Consumer Protection Act, 2019 / Indian Contract Act\n================================================================================\n\nDATE: 08-November-2026\n\nBY REGISTERED POST A.D. / SPEED POST / LEGAL EMAIL NOTIFICATION\n\nTO:\nRamesh Kumar (Landlord)\nFlat 302, Green View Apts, Koramangala 4th Block, Bengaluru - 560034\nEmail / Contact: contact@oppositeparty.com\n\nFROM:\nArjun Sharma\nResiding at / Address: Bengaluru\nPhone: +91-9845012345 | Email: arjun.sharma@gmail.com\n\nSUBJECT: FORMAL DEMAND NOTICE FOR IMMEDIATE RECOVERY OF INR 65000 ALONG WITH 18% P.A. INTEREST TOWARDS UNLAWFUL WITHHOLDING AND DEFICIENCY IN SERVICE\n\nSir / Madam,\n\nUnder instructions and on behalf of my client / the undersigned, this formal Legal Demand Notice is hereby served upon you as follows:\n\n1. FACTUAL RECITALS & TIMELINE:\n   a. That the undersigned entered into a legally binding relationship / agreement with you regarding Tenancy & Security Deposit Recovery.\n   b.1 On/Around 1st October : I rented a 2BHK in Koramangala Bengaluru.\n   b.2 On/Around 31st October: I gave 1 month notice on 1st October as per agreement and vacated on 31st October.\n   b.3 On/Around 31st October: My security deposit was Rs 65000.\n   b.4 On/Around Phase 4: When I asked for my refund, the landlord blocked my number and told my roommate that he is deducting Rs 35000 for full house painting and Rs 30000 for minor scratches and cleaning.\n   b.5 On/Around Phase 5: The house was completely clean when I handed over keys, and I have full video proof taken on 31st October.\n\n2. NATURE OF BREACH & DEFICIENCY:\n   a. That despite the undersigned having completely fulfilled all contractual and statutory obligations, you have arbitrarily, maliciously, and unlawfully withheld the legitimate sum of INR 65000.\n   b. That your actions constitute a direct breach of contract under Section 73 of the Indian Contract Act, 1872, and amounts to an Unfair Trade Practice and Deficiency in Service as defined under Section 2(47) and Section 2(11) of the Consumer Protection Act, 2019.\n   c. That specifically, Landlord cannot unilaterally forfeit security deposit for normal wear and tear unless explicitly detailed with written invoices. Security deposit must be refunded within 30 days of vacant possession.\n\n3. MANDATORY 15-DAY RECTIFICATION DEMAND:\n   You are hereby called upon to pay and remit the outstanding sum of INR 65000 directly into the bank account of the undersigned, along with interest calculated @ 18% per annum from the date it fell due until realization, within exactly FIFTEEN (15) DAYS from the receipt of this notice.\n\n4. CONSEQUENCES OF DEFAULT:\n   Please take note that if you fail to comply with the requisitions of this notice within the stipulated 15 days, the undersigned shall be constrained to initiate appropriate legal proceedings against you, including:\n   i. Filing a formal statutory complaint before the competent District Consumer Disputes Redressal Commission / Rent Authority / Labour Commissioner;\n   ii. Instituting a civil summary recovery suit before the Court of competent jurisdiction;\n   In which event, you shall be held solely liable for all consequential legal expenses, litigation costs, and compensatory damages for severe mental agony and harassment.\n\nA copy of this notice is retained in our records for future judicial submission.\n\nYours sincerely,\n\n___________________________\nArjun Sharma\n(Signature / Digital Delivery Copy)\n================================================================================\n",
+    "counterparty_negotiation_roleplay": {
+      "opponent_role": "Aggressive Landlord",
+      "opponent_message": "Listen, you vacated the flat in a terrible state! The walls need complete repainting and that costs 30,000. Plus 20,000 for deep cleaning and deep polish. I don't owe you anything. Go do whatever you want!",
+      "coaching_tip": "Do NOT get emotional or shout back. Ground yourself in the law: Under Section 108 of the Transfer of Property Act, normal wear and tear is the landlord's responsibility. Demand written GST invoices for the alleged repainting and cite your dated handover photos.",
+      "suggested_reply": "Dear Landlord, under Section 108(m) of the Transfer of Property Act, 1882, a tenant is only liable for willful damage, not normal wear and tear. I have timestamped photos and videos from the day of handover proving the flat was spotless. Please share itemized GST invoices for these alleged deductions within 48 hours, failing which my formal 15-day Legal Notice is being dispatched and we will proceed to the Rent Authority and Civil Court."
+    }
+  },
+  {
+    "test_case_id": "TC_02_CONSUMER",
+    "title": "E-Commerce / Electronics Non-Refund for Defective Laptop",
+    "raw_input": "I ordered an Asus Gaming Laptop for Rs 58000 on 12th September from an online seller. When it arrived on 15th September, the screen was cracked and it would not boot. I immediately raised a return request with unboxing video on 16th September. The customer care kept delaying saying technician will visit. On 28th September they abruptly closed my ticket stating return window expired. They refuse to refund my Rs 58000.",
+    "parties": {
+      "user": {
+        "name": "Pooja Reddy",
+        "city": "Hyderabad",
+        "phone": "+91-9988776655",
+        "email": "pooja.reddy@gmail.com"
+      },
+      "respondent": {
+        "name": "ElectroDeals Online Retail Pvt Ltd & Platform Grievance Officer",
+        "address": "Building 5, Cyber City, Gurugram, Haryana - 122002"
+      }
+    },
+    "case_assessment": {
+      "status": "VALID_EVERYDAY_DISPUTE",
+      "domain": "Consumer Protection & E-Commerce Disputes",
+      "disputed_amount": "INR 58000",
+      "timeline": [
+        {
+          "phase": "12th September ",
+          "event": "I ordered an Asus Gaming Laptop for Rs 58000 on 12th September from an online seller"
+        },
+        {
+          "phase": "15th September",
+          "event": "When it arrived on 15th September, the screen was cracked and it would not boot"
+        },
+        {
+          "phase": "16th September",
+          "event": "I immediately raised a return request with unboxing video on 16th September"
+        },
+        {
+          "phase": "28th September ",
+          "event": "The customer care kept delaying saying technician will visit"
+        },
+        {
+          "phase": "Phase 5",
+          "event": "On 28th September they abruptly closed my ticket stating return window expired"
+        },
+        {
+          "phase": "Phase 6",
+          "event": "They refuse to refund my Rs 58000"
+        }
+      ],
+      "applicable_law": "Consumer Protection Act, 2019 & Consumer Protection (E-Commerce) Rules, 2020",
+      "plain_language_summary": "Consumers have statutory right against deficiency in service and unfair trade practices. Sellers and marketplace platforms cannot hide behind unreasonable return policies if defective/wrong goods were delivered.",
+      "statutory_provisions": [
+        "Consumer Protection Act, 2019, Section 2(47): Definition of 'Unfair Trade Practice' including deceptive claims and refusing refund for defective items.",
+        "Consumer Protection Act, 2019, Section 2(11): Definition of 'Deficiency in Service'.",
+        "Consumer Protection (E-Commerce) Rules, 2020, Rule 5 & 6: Mandatory grievance officer, 48-hour acknowledgement, and refund obligations."
+      ],
+      "remedies": [
+        "Issue formal 15-day Legal Demand Notice to seller and e-commerce platform.",
+        "Register grievance on National Consumer Helpline (NCH / 1915 or consumerhelpline.gov.in / INGRAM portal).",
+        "File online complaint on e-Daakhil portal (edaakhil.nic.in) before the District Consumer Disputes Redressal Commission."
+      ],
+      "evidence_checklist": [
+        "Tax Invoice / Order Confirmation with Order ID",
+        "Unboxing video or photographs of the defective/wrong product",
+        "Support ticket history / Email threads / Chat logs showing timely complaint",
+        "Payment proof (Credit card / UPI statement)",
+        "Refusal email or arbitrary ticket closure confirmation"
+      ]
+    },
+    "generated_legal_notice": "================================================================================\nFORMAL LEGAL DEMAND NOTICE (WITHOUT PREJUDICE)\nIssued under Section 108 Transfer of Property Act / Consumer Protection Act, 2019 / Indian Contract Act\n================================================================================\n\nDATE: 08-November-2026\n\nBY REGISTERED POST A.D. / SPEED POST / LEGAL EMAIL NOTIFICATION\n\nTO:\nElectroDeals Online Retail Pvt Ltd & Platform Grievance Officer\nBuilding 5, Cyber City, Gurugram, Haryana - 122002\nEmail / Contact: contact@oppositeparty.com\n\nFROM:\nPooja Reddy\nResiding at / Address: Hyderabad\nPhone: +91-9988776655 | Email: pooja.reddy@gmail.com\n\nSUBJECT: FORMAL DEMAND NOTICE FOR IMMEDIATE RECOVERY OF INR 58000 ALONG WITH 18% P.A. INTEREST TOWARDS UNLAWFUL WITHHOLDING AND DEFICIENCY IN SERVICE\n\nSir / Madam,\n\nUnder instructions and on behalf of my client / the undersigned, this formal Legal Demand Notice is hereby served upon you as follows:\n\n1. FACTUAL RECITALS & TIMELINE:\n   a. That the undersigned entered into a legally binding relationship / agreement with you regarding Consumer Protection & E-Commerce Disputes.\n   b.1 On/Around 12th September : I ordered an Asus Gaming Laptop for Rs 58000 on 12th September from an online seller.\n   b.2 On/Around 15th September: When it arrived on 15th September, the screen was cracked and it would not boot.\n   b.3 On/Around 16th September: I immediately raised a return request with unboxing video on 16th September.\n   b.4 On/Around 28th September : The customer care kept delaying saying technician will visit.\n   b.5 On/Around Phase 5: On 28th September they abruptly closed my ticket stating return window expired.\n   b.6 On/Around Phase 6: They refuse to refund my Rs 58000.\n\n2. NATURE OF BREACH & DEFICIENCY:\n   a. That despite the undersigned having completely fulfilled all contractual and statutory obligations, you have arbitrarily, maliciously, and unlawfully withheld the legitimate sum of INR 58000.\n   b. That your actions constitute a direct breach of contract under Section 73 of the Indian Contract Act, 1872, and amounts to an Unfair Trade Practice and Deficiency in Service as defined under Section 2(47) and Section 2(11) of the Consumer Protection Act, 2019.\n   c. That specifically, Consumers have statutory right against deficiency in service and unfair trade practices. Sellers and marketplace platforms cannot hide behind unreasonable return policies if defective/wrong goods were delivered.\n\n3. MANDATORY 15-DAY RECTIFICATION DEMAND:\n   You are hereby called upon to pay and remit the outstanding sum of INR 58000 directly into the bank account of the undersigned, along with interest calculated @ 18% per annum from the date it fell due until realization, within exactly FIFTEEN (15) DAYS from the receipt of this notice.\n\n4. CONSEQUENCES OF DEFAULT:\n   Please take note that if you fail to comply with the requisitions of this notice within the stipulated 15 days, the undersigned shall be constrained to initiate appropriate legal proceedings against you, including:\n   i. Filing a formal statutory complaint before the competent District Consumer Disputes Redressal Commission / Rent Authority / Labour Commissioner;\n   ii. Instituting a civil summary recovery suit before the Court of competent jurisdiction;\n   In which event, you shall be held solely liable for all consequential legal expenses, litigation costs, and compensatory damages for severe mental agony and harassment.\n\nA copy of this notice is retained in our records for future judicial submission.\n\nYours sincerely,\n\n___________________________\nPooja Reddy\n(Signature / Digital Delivery Copy)\n================================================================================\n",
+    "counterparty_negotiation_roleplay": {
+      "opponent_role": "Customer Support Supervisor",
+      "opponent_message": "Sir, our return window is strictly 7 days from delivery. You contacted us after 8 days, so our system does not allow return or replacement. We regret the inconvenience.",
+      "coaching_tip": "Point out the exact date you raised the first ticket (proving it was within timeline) and emphasize that a defective product delivery falls under Unfair Trade Practice under Consumer Protection Act 2019, which cannot be barred by software timers.",
+      "suggested_reply": "Dear Support, my first complaint was logged on [Date], which was within 48 hours of delivery (Ticket ID #XYZ). Your technical delays cannot be used to void my statutory consumer rights. Delivering a defective product and refusing remediation is an Unfair Trade Practice under Section 2(47) of the Consumer Protection Act, 2019. I am escalating this to the National Consumer Helpline (NCH 1915) and filing on e-Daakhil."
+    }
+  },
+  {
+    "test_case_id": "TC_03_LABOUR",
+    "title": "Startup Withholding 2 Months Salary & Relieving Letter",
+    "raw_input": "I worked as a Frontend Developer at a tech startup in Mumbai. My monthly in-hand salary was Rs 60000. I resigned on 15th August serving full 30 days notice till 15th September. The company owes me 2 months pending salary total Rs 120000. Now HR says the company has funding problems and they cannot pay my F&F or give my relieving letter. It has been 50 days.",
+    "parties": {
+      "user": {
+        "name": "Rohan Deshmukh",
+        "city": "Mumbai",
+        "phone": "+91-9820011223",
+        "email": "rohan.deshmukh@gmail.com"
+      },
+      "respondent": {
+        "name": "NextGen FinTech Solutions Pvt Ltd (Through its Directors)",
+        "address": "Unit 401, Lotus Business Park, Andheri West, Mumbai - 400053"
+      }
+    },
+    "case_assessment": {
+      "status": "VALID_EVERYDAY_DISPUTE",
+      "domain": "Unpaid Wages, Notice Pay & F&F Settlement",
+      "disputed_amount": "INR 60000",
+      "timeline": [
+        {
+          "phase": "15th August ",
+          "event": "I worked as a Frontend Developer at a tech startup in Mumbai"
+        },
+        {
+          "phase": "15th September",
+          "event": "My monthly in-hand salary was Rs 60000"
+        },
+        {
+          "phase": "Phase 3",
+          "event": "I resigned on 15th August serving full 30 days notice till 15th September"
+        },
+        {
+          "phase": "Phase 4",
+          "event": "The company owes me 2 months pending salary total Rs 120000"
+        },
+        {
+          "phase": "Phase 5",
+          "event": "Now HR says the company has funding problems and they cannot pay my F&F or give my relieving letter"
+        },
+        {
+          "phase": "Phase 6",
+          "event": "It has been 50 days"
+        }
+      ],
+      "applicable_law": "Payment of Wages Act, 1936 & Indian Contract Act, 1872 (Section 73)",
+      "plain_language_summary": "Employers are legally obligated to disburse earned wages and clear Full & Final (F&F) settlement within statutory timelines (typically by 7th-10th of succeeding month, or within 30 days of resignation).",
+      "statutory_provisions": [
+        "Payment of Wages Act, 1936, Section 5: Time of payment of wages (before expiry of 7th or 10th day).",
+        "Payment of Wages Act, 1936, Section 7: Authorized deductions only; arbitrary forfeiture is illegal.",
+        "Indian Contract Act, 1872, Section 73: Breach of employment agreement and recovery of dues."
+      ],
+      "remedies": [
+        "Issue formal 15-day Legal Demand Notice to Managing Director and HR.",
+        "File complaint with the jurisdictional State Labour Commissioner (Conciliation Officer).",
+        "For non-workman/managerial employees, initiate civil recovery summary suit or Section 9 IBC (Insolvency) notice if company is corporate debtor (>\u20b91 Cr threshold) or MSME Samadhaan if eligible."
+      ],
+      "evidence_checklist": [
+        "Appointment Letter / Employment Agreement showing CTC and notice terms",
+        "Salary slips of prior months",
+        "Bank statements showing cessation of salary credits",
+        "Resignation email, acceptance confirmation, and handover sign-off",
+        "Follow-up emails sent to HR/Finance demanding F&F settlement"
+      ]
+    },
+    "generated_legal_notice": "================================================================================\nFORMAL LEGAL DEMAND NOTICE (WITHOUT PREJUDICE)\nIssued under Section 108 Transfer of Property Act / Consumer Protection Act, 2019 / Indian Contract Act\n================================================================================\n\nDATE: 08-November-2026\n\nBY REGISTERED POST A.D. / SPEED POST / LEGAL EMAIL NOTIFICATION\n\nTO:\nNextGen FinTech Solutions Pvt Ltd (Through its Directors)\nUnit 401, Lotus Business Park, Andheri West, Mumbai - 400053\nEmail / Contact: contact@oppositeparty.com\n\nFROM:\nRohan Deshmukh\nResiding at / Address: Mumbai\nPhone: +91-9820011223 | Email: rohan.deshmukh@gmail.com\n\nSUBJECT: FORMAL DEMAND NOTICE FOR IMMEDIATE RECOVERY OF INR 60000 ALONG WITH 18% P.A. INTEREST TOWARDS UNLAWFUL WITHHOLDING AND DEFICIENCY IN SERVICE\n\nSir / Madam,\n\nUnder instructions and on behalf of my client / the undersigned, this formal Legal Demand Notice is hereby served upon you as follows:\n\n1. FACTUAL RECITALS & TIMELINE:\n   a. That the undersigned entered into a legally binding relationship / agreement with you regarding Unpaid Wages, Notice Pay & F&F Settlement.\n   b.1 On/Around 15th August : I worked as a Frontend Developer at a tech startup in Mumbai.\n   b.2 On/Around 15th September: My monthly in-hand salary was Rs 60000.\n   b.3 On/Around Phase 3: I resigned on 15th August serving full 30 days notice till 15th September.\n   b.4 On/Around Phase 4: The company owes me 2 months pending salary total Rs 120000.\n   b.5 On/Around Phase 5: Now HR says the company has funding problems and they cannot pay my F&F or give my relieving letter.\n   b.6 On/Around Phase 6: It has been 50 days.\n\n2. NATURE OF BREACH & DEFICIENCY:\n   a. That despite the undersigned having completely fulfilled all contractual and statutory obligations, you have arbitrarily, maliciously, and unlawfully withheld the legitimate sum of INR 60000.\n   b. That your actions constitute a direct breach of contract under Section 73 of the Indian Contract Act, 1872, and amounts to an Unfair Trade Practice and Deficiency in Service as defined under Section 2(47) and Section 2(11) of the Consumer Protection Act, 2019.\n   c. That specifically, Employers are legally obligated to disburse earned wages and clear Full & Final (F&F) settlement within statutory timelines (typically by 7th-10th of succeeding month, or within 30 days of resignation).\n\n3. MANDATORY 15-DAY RECTIFICATION DEMAND:\n   You are hereby called upon to pay and remit the outstanding sum of INR 60000 directly into the bank account of the undersigned, along with interest calculated @ 18% per annum from the date it fell due until realization, within exactly FIFTEEN (15) DAYS from the receipt of this notice.\n\n4. CONSEQUENCES OF DEFAULT:\n   Please take note that if you fail to comply with the requisitions of this notice within the stipulated 15 days, the undersigned shall be constrained to initiate appropriate legal proceedings against you, including:\n   i. Filing a formal statutory complaint before the competent District Consumer Disputes Redressal Commission / Rent Authority / Labour Commissioner;\n   ii. Instituting a civil summary recovery suit before the Court of competent jurisdiction;\n   In which event, you shall be held solely liable for all consequential legal expenses, litigation costs, and compensatory damages for severe mental agony and harassment.\n\nA copy of this notice is retained in our records for future judicial submission.\n\nYours sincerely,\n\n___________________________\nRohan Deshmukh\n(Signature / Digital Delivery Copy)\n================================================================================\n",
+    "counterparty_negotiation_roleplay": {
+      "opponent_role": "Evasive Startup HR / Founder",
+      "opponent_message": "Our company policy says F&F takes 90 business days to audit, and because the company is facing cash flow issues, notice pay is waived. You cannot force us to pay earlier than policy.",
+      "coaching_tip": "Company internal policy NEVER overrides statutory law. The Payment of Wages Act, 1936 mandates payment within statutory deadlines, and employment contracts cannot unilaterally waive earned wages.",
+      "suggested_reply": "Dear HR, internal company policy does not supersede the Payment of Wages Act, 1936 or Section 73 of the Indian Contract Act. My resignation was formally accepted with complete handover sign-off on [Date]. Withholding earned salary is illegal. If the full settlement is not disbursed within 7 days, I will register a complaint with the State Labour Commissioner and issue a formal Legal Demand Notice."
+    }
+  },
+  {
+    "test_case_id": "TC_04_OUT_OF_SCOPE",
+    "title": "Criminal / Physical Threat & Domestic Feud (Safety Trigger)",
+    "raw_input": "My cousin brother came to my house yesterday with a weapon and threatened to assault and kill my family over ancestral land distribution. He says if we go to the police station he will attack us. What legal sections should I put in FIR?",
+    "parties": {
+      "user": {
+        "name": "Anonymous Citizen",
+        "city": "Delhi",
+        "phone": "+91-9900000000"
+      },
+      "respondent": {
+        "name": "Cousin",
+        "address": "Ancestral Village"
+      }
+    },
+    "case_assessment": {
+      "status": "OUT_OF_SCOPE",
+      "reason": "Matter touches criminal, matrimonial, or high-stakes civil litigation ('\\bkill\\b').",
+      "recommendation": "This platform strictly handles everyday civil, consumer, and employment disputes. For criminal, matrimonial, or custody matters, please immediately consult a qualified Advocate in your district court or approach the National Legal Services Authority (NALSA) Helpline at 15100 for free legal aid."
+    },
+    "generated_legal_notice": "CANNOT DRAFT: Matter is out of civil/consumer scope.",
+    "counterparty_negotiation_roleplay": "Roleplay disabled for out-of-scope matters."
+  }
+]

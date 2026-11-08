@@ -1,0 +1,3242 @@
+[
+  {
+    "episode_num": 1,
+    "total_duration": 138.0,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 8.1
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "02:00.00 - 02:18.00",
+        "start_sec": 120.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "02:15.00 - 02:18.00",
+        "start_sec": 135.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 2,
+    "total_duration": 110.0,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:45.00 - 01:50.00",
+        "start_sec": 105.0,
+        "tension_score": 0.4
+      }
+    ]
+  },
+  {
+    "episode_num": 3,
+    "total_duration": 145.75,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 8.1
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "02:15.00 - 02:25.75",
+        "start_sec": 135.0,
+        "tension_score": 2.0
+      }
+    ]
+  },
+  {
+    "episode_num": 4,
+    "total_duration": 149.0,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 8.9
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "02:15.00 - 02:29.00",
+        "start_sec": 135.0,
+        "tension_score": 4.0
+      }
+    ]
+  },
+  {
+    "episode_num": 5,
+    "total_duration": 110.5,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.5
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:45.00 - 01:50.50",
+        "start_sec": 105.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 6,
+    "total_duration": 115.0,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 8.9
+      },
+      {
+        "time_window": "01:45.00 - 01:55.00",
+        "start_sec": 105.0,
+        "tension_score": 2.4
+      }
+    ]
+  },
+  {
+    "episode_num": 7,
+    "total_duration": 116.0,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:45.00 - 01:56.00",
+        "start_sec": 105.0,
+        "tension_score": 1.2
+      }
+    ]
+  },
+  {
+    "episode_num": 8,
+    "total_duration": 78.0,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 7.6
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 8.9
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:00.00 - 01:18.00",
+        "start_sec": 60.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:15.00 - 01:18.00",
+        "start_sec": 75.0,
+        "tension_score": 0.4
+      }
+    ]
+  },
+  {
+    "episode_num": 9,
+    "total_duration": 115.5,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 8.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 8.8
+      },
+      {
+        "time_window": "01:45.00 - 01:55.50",
+        "start_sec": 105.0,
+        "tension_score": 1.6
+      }
+    ]
+  },
+  {
+    "episode_num": 10,
+    "total_duration": 94.0,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 9.7
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:34.00",
+        "start_sec": 75.0,
+        "tension_score": 2.0
+      },
+      {
+        "time_window": "01:30.00 - 01:34.00",
+        "start_sec": 90.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 11,
+    "total_duration": 112.75,
+    "retention_score": 85.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 9.7
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 8.1
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:45.00 - 01:52.75",
+        "start_sec": 105.0,
+        "tension_score": 0.4
+      }
+    ]
+  },
+  {
+    "episode_num": 12,
+    "total_duration": 87.21,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 8.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "01:15.00 - 01:27.21",
+        "start_sec": 75.0,
+        "tension_score": 2.0
+      }
+    ]
+  },
+  {
+    "episode_num": 13,
+    "total_duration": 118.88,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 3.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.7
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:45.00 - 01:58.88",
+        "start_sec": 105.0,
+        "tension_score": 6.8
+      }
+    ]
+  },
+  {
+    "episode_num": 14,
+    "total_duration": 87.63,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "High-Stakes Peril / Ultimatum",
+      "raw_score": 3.5
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:15.00 - 01:27.63",
+        "start_sec": 75.0,
+        "tension_score": 4.9
+      }
+    ]
+  },
+  {
+    "episode_num": 15,
+    "total_duration": 86.0,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:26.00",
+        "start_sec": 75.0,
+        "tension_score": 2.4
+      }
+    ]
+  },
+  {
+    "episode_num": 16,
+    "total_duration": 83.19,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:15.00 - 01:23.19",
+        "start_sec": 75.0,
+        "tension_score": 2.0
+      }
+    ]
+  },
+  {
+    "episode_num": 17,
+    "total_duration": 118.88,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:45.00 - 01:58.88",
+        "start_sec": 105.0,
+        "tension_score": 2.8
+      }
+    ]
+  },
+  {
+    "episode_num": 18,
+    "total_duration": 192.0,
+    "retention_score": 10.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [
+      {
+        "start_time": "02:00.00",
+        "end_time": "02:20.00",
+        "duration": 20.0,
+        "tension": 2.0,
+        "critique": "Dialogue lull or passive staging detected. Cut or inject sudden revelation/confrontation here."
+      },
+      {
+        "start_time": "02:15.00",
+        "end_time": "02:35.00",
+        "duration": 20.0,
+        "tension": 2.4,
+        "critique": "Dialogue lull or passive staging detected. Cut or inject sudden revelation/confrontation here."
+      },
+      {
+        "start_time": "02:30.00",
+        "end_time": "02:50.00",
+        "duration": 20.0,
+        "tension": 2.0,
+        "critique": "Dialogue lull or passive staging detected. Cut or inject sudden revelation/confrontation here."
+      },
+      {
+        "start_time": "02:45.00",
+        "end_time": "03:05.00",
+        "duration": 20.0,
+        "tension": 2.0,
+        "critique": "Dialogue lull or passive staging detected. Cut or inject sudden revelation/confrontation here."
+      }
+    ],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "SAG FIX at 02:00.00-02:20.00: Insert an emotional provocation, a veiled threat, or physical power move to maintain dialogue velocity.",
+      "SAG FIX at 02:15.00-02:35.00: Insert an emotional provocation, a veiled threat, or physical power move to maintain dialogue velocity.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 6.5
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 2.0
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 2.4
+      },
+      {
+        "time_window": "02:30.00 - 02:50.00",
+        "start_sec": 150.0,
+        "tension_score": 2.0
+      },
+      {
+        "time_window": "02:45.00 - 03:05.00",
+        "start_sec": 165.0,
+        "tension_score": 2.0
+      },
+      {
+        "time_window": "03:00.00 - 03:12.00",
+        "start_sec": 180.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 19,
+    "total_duration": 119.63,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:45.00 - 01:59.63",
+        "start_sec": 105.0,
+        "tension_score": 1.6
+      }
+    ]
+  },
+  {
+    "episode_num": 20,
+    "total_duration": 114.75,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 8.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:45.00 - 01:54.75",
+        "start_sec": 105.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 21,
+    "total_duration": 114.0,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 8.9
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 9.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:45.00 - 01:54.00",
+        "start_sec": 105.0,
+        "tension_score": 1.2
+      }
+    ]
+  },
+  {
+    "episode_num": 22,
+    "total_duration": 131.0,
+    "retention_score": 60.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-1 WALLET OPENER (High Coin Unlock Rate)",
+      "cliffhanger_type": "High-Stakes Peril / Ultimatum",
+      "raw_score": 7.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 8.4
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 9.2
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "02:00.00 - 02:11.00",
+        "start_sec": 120.0,
+        "tension_score": 5.7
+      }
+    ]
+  },
+  {
+    "episode_num": 23,
+    "total_duration": 131.5,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "02:00.00 - 02:11.50",
+        "start_sec": 120.0,
+        "tension_score": 1.6
+      }
+    ]
+  },
+  {
+    "episode_num": 24,
+    "total_duration": 89.8,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:15.00 - 01:29.80",
+        "start_sec": 75.0,
+        "tension_score": 3.6
+      }
+    ]
+  },
+  {
+    "episode_num": 25,
+    "total_duration": 168.0,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 9.0
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "02:30.00 - 02:48.00",
+        "start_sec": 150.0,
+        "tension_score": 2.8
+      },
+      {
+        "time_window": "02:45.00 - 02:48.00",
+        "start_sec": 165.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 26,
+    "total_duration": 120.88,
+    "retention_score": 60.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-1 WALLET OPENER (High Coin Unlock Rate)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 7.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 2.8
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.3
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.9
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:45.00 - 02:00.88",
+        "start_sec": 105.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "02:00.00 - 02:00.88",
+        "start_sec": 120.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 27,
+    "total_duration": 150.5,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "02:15.00 - 02:30.50",
+        "start_sec": 135.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "02:30.00 - 02:30.50",
+        "start_sec": 150.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 28,
+    "total_duration": 138.5,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "High-Stakes Peril / Ultimatum",
+      "raw_score": 3.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "02:00.00 - 02:18.50",
+        "start_sec": 120.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "02:15.00 - 02:18.50",
+        "start_sec": 135.0,
+        "tension_score": 0.4
+      }
+    ]
+  },
+  {
+    "episode_num": 29,
+    "total_duration": 116.69,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:45.00 - 01:56.69",
+        "start_sec": 105.0,
+        "tension_score": 2.8
+      }
+    ]
+  },
+  {
+    "episode_num": 30,
+    "total_duration": 151.21,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 6.1
+      },
+      {
+        "time_window": "02:15.00 - 02:31.21",
+        "start_sec": 135.0,
+        "tension_score": 2.4
+      },
+      {
+        "time_window": "02:30.00 - 02:31.21",
+        "start_sec": 150.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 31,
+    "total_duration": 160.0,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.1
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "02:30.00 - 02:40.00",
+        "start_sec": 150.0,
+        "tension_score": 1.2
+      }
+    ]
+  },
+  {
+    "episode_num": 32,
+    "total_duration": 154.38,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "02:15.00 - 02:34.38",
+        "start_sec": 135.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "02:30.00 - 02:34.38",
+        "start_sec": 150.0,
+        "tension_score": 1.2
+      }
+    ]
+  },
+  {
+    "episode_num": 33,
+    "total_duration": 174.04,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "02:30.00 - 02:50.00",
+        "start_sec": 150.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "02:45.00 - 02:54.04",
+        "start_sec": 165.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 34,
+    "total_duration": 190.0,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 8.0
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "02:30.00 - 02:50.00",
+        "start_sec": 150.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "02:45.00 - 03:05.00",
+        "start_sec": 165.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "03:00.00 - 03:10.00",
+        "start_sec": 180.0,
+        "tension_score": 1.2
+      }
+    ]
+  },
+  {
+    "episode_num": 35,
+    "total_duration": 157.5,
+    "retention_score": 55.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [
+      {
+        "start_time": "00:45.00",
+        "end_time": "01:05.00",
+        "duration": 20.0,
+        "tension": 2.4,
+        "critique": "Dialogue lull or passive staging detected. Cut or inject sudden revelation/confrontation here."
+      }
+    ],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "SAG FIX at 00:45.00-01:05.00: Insert an emotional provocation, a veiled threat, or physical power move to maintain dialogue velocity.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 9.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 2.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 2.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 5.7
+      },
+      {
+        "time_window": "02:30.00 - 02:37.50",
+        "start_sec": 150.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 36,
+    "total_duration": 200.75,
+    "retention_score": 60.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-1 WALLET OPENER (High Coin Unlock Rate)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 7.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "02:30.00 - 02:50.00",
+        "start_sec": 150.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "02:45.00 - 03:05.00",
+        "start_sec": 165.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "03:00.00 - 03:20.00",
+        "start_sec": 180.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "03:15.00 - 03:20.75",
+        "start_sec": 195.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 37,
+    "total_duration": 156.47,
+    "retention_score": 60.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-1 WALLET OPENER (High Coin Unlock Rate)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 7.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "02:15.00 - 02:35.00",
+        "start_sec": 135.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "02:30.00 - 02:36.47",
+        "start_sec": 150.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 38,
+    "total_duration": 87.91,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 7.7
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 8.1
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 7.3
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "01:15.00 - 01:27.91",
+        "start_sec": 75.0,
+        "tension_score": 2.4
+      }
+    ]
+  },
+  {
+    "episode_num": 39,
+    "total_duration": 98.41,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 3.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 9.3
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:30.00 - 01:38.41",
+        "start_sec": 90.0,
+        "tension_score": 3.6
+      }
+    ]
+  },
+  {
+    "episode_num": 40,
+    "total_duration": 110.08,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:45.00 - 01:50.08",
+        "start_sec": 105.0,
+        "tension_score": 0.8
+      }
+    ]
+  },
+  {
+    "episode_num": 41,
+    "total_duration": 96.09,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:30.00 - 01:36.09",
+        "start_sec": 90.0,
+        "tension_score": 0.4
+      }
+    ]
+  },
+  {
+    "episode_num": 42,
+    "total_duration": 77.5,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 3.5
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 8.5
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:00.00 - 01:17.50",
+        "start_sec": 60.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:15.00 - 01:17.50",
+        "start_sec": 75.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 43,
+    "total_duration": 114.96,
+    "retention_score": 65.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 7.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 7.6
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:45.00 - 01:54.96",
+        "start_sec": 105.0,
+        "tension_score": 2.0
+      }
+    ]
+  },
+  {
+    "episode_num": 44,
+    "total_duration": 70.4,
+    "retention_score": 85.0,
+    "first_15s_check": {
+      "status": "PASS - High Immediate Stakes",
+      "critique": "First 15s hooks viewer with immediate conflict/shock dialogue."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 10.0
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 8.0
+      },
+      {
+        "time_window": "01:00.00 - 01:10.40",
+        "start_sec": 60.0,
+        "tension_score": 3.6
+      }
+    ]
+  },
+  {
+    "episode_num": 45,
+    "total_duration": 121.75,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 7.6
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.4
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.5
+      },
+      {
+        "time_window": "01:45.00 - 02:01.75",
+        "start_sec": 105.0,
+        "tension_score": 5.7
+      },
+      {
+        "time_window": "02:00.00 - 02:01.75",
+        "start_sec": 120.0,
+        "tension_score": 0.0
+      }
+    ]
+  },
+  {
+    "episode_num": 46,
+    "total_duration": 143.8,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Shock Identity / Power Reveal",
+      "raw_score": 3.5
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 7.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 6.9
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 2.8
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "02:15.00 - 02:23.80",
+        "start_sec": 135.0,
+        "tension_score": 1.6
+      }
+    ]
+  },
+  {
+    "episode_num": 47,
+    "total_duration": 134.0,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 9.8
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 4.8
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "02:00.00 - 02:14.00",
+        "start_sec": 120.0,
+        "tension_score": 2.0
+      }
+    ]
+  },
+  {
+    "episode_num": 48,
+    "total_duration": 80.0,
+    "retention_score": 25.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-3 FLAT ENDING (Paywall Failure Risk)",
+      "cliffhanger_type": "Flat Exit / Weak Paywall",
+      "raw_score": 0.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 6.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 6.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:15.00 - 01:20.00",
+        "start_sec": 75.0,
+        "tension_score": 0.4
+      }
+    ]
+  },
+  {
+    "episode_num": 49,
+    "total_duration": 144.75,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 2.8
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 3.6
+      },
+      {
+        "time_window": "01:15.00 - 01:35.00",
+        "start_sec": 75.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "01:30.00 - 01:50.00",
+        "start_sec": 90.0,
+        "tension_score": 5.6
+      },
+      {
+        "time_window": "01:45.00 - 02:05.00",
+        "start_sec": 105.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "02:00.00 - 02:20.00",
+        "start_sec": 120.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "02:15.00 - 02:24.75",
+        "start_sec": 135.0,
+        "tension_score": 3.2
+      }
+    ]
+  },
+  {
+    "episode_num": 50,
+    "total_duration": 80.0,
+    "retention_score": 45.0,
+    "first_15s_check": {
+      "status": "FAIL - High Drop-off Risk",
+      "critique": "First 15s contains passive exposition or establishing shots without tension. >50% viewers will swipe away before 00:15."
+    },
+    "exposition_sag_zones": [],
+    "cliffhanger_audit": {
+      "rating": "TIER-2 MODERATE CLIFFHANGER",
+      "cliffhanger_type": "Standard Microdrama Cut",
+      "raw_score": 4.0
+    },
+    "writer_prescriptions": [
+      "HOOK FIX: Move the core argument or visual shock into 00:00 - 00:08. Eliminate establishing hallway/door walking.",
+      "CLIFFHANGER FIX: End episode 3 seconds EARLIER, right as the weapon/question is leveled, before anyone replies."
+    ],
+    "tension_curve": [
+      {
+        "time_window": "00:00.00 - 00:20.00",
+        "start_sec": 0.0,
+        "tension_score": 5.2
+      },
+      {
+        "time_window": "00:15.00 - 00:35.00",
+        "start_sec": 15.0,
+        "tension_score": 3.2
+      },
+      {
+        "time_window": "00:30.00 - 00:50.00",
+        "start_sec": 30.0,
+        "tension_score": 4.0
+      },
+      {
+        "time_window": "00:45.00 - 01:05.00",
+        "start_sec": 45.0,
+        "tension_score": 2.8
+      },
+      {
+        "time_window": "01:00.00 - 01:20.00",
+        "start_sec": 60.0,
+        "tension_score": 4.4
+      },
+      {
+        "time_window": "01:15.00 - 01:20.00",
+        "start_sec": 75.0,
+        "tension_score": 1.6
+      }
+    ]
+  }
+]
